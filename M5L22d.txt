@@ -1,0 +1,109 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 99 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+When we measure the phase and we find
+that there are fluctuations, they actually
+come from the quantum nature.
+They come from the quantum nature of the states involved.
+OK.
+So let's talk about the measurement,
+and just sort of let me set it up genetically.
+Here's our atom.
+Here is the laser beam.
+And we want to create a Mach-Zehnder interferometer.
+Let's do it another color for the laser beam.
+
+Well, why don't we need to take sodium today, which
+has emission in the yellow near the orange.
+So the idea is the following.
+We have a laser beam which is used to excite the atom.
+And here, we have a switch.
+And what we let through is only a certain pulse.
+Let's say, if we want to have a coherent superposition
+between current and excited state,
+it would be a pi over 2 pulse.
+Then after the atom has absorbed the pulse,
+we switch off the light paths.
+So then, in the second stage, the atom can emit,
+and the immediate light interferes
+with the local oscillator, which is the laser beam.
+And we can measure the beat node on the detector.
+So this is sort of the scheme how
+we do a homodyne measurement.
+
+And so, we assume we have a very short pulse which
+excites the atom.
+Then we switch off the laser in the upper paths,
+and the light which reaches the detector for homodyne
+is only the light which has been emitted by the atom maybe
+a nanosecond later.
+So we do a homodyne measurement of the phase
+of the wave, or the wave train, emitted by the atom.
+And the distribution of measurements for the phase--
+I don't want to give you sort of mathematical expressions,
+but it's pretty much what you can read from the drawing I've
+shown you.
+So for a pi over 2 pulse, well, we retrieve the phase phi,
+but with fluctuations.
+Let's now come to the interesting case
+that we have a pi pulse.
+The pi pulse prepares the atom in an excited state.
+And at T equals 0, after the excitation,
+there's absolutely no coherence.
+The density operator for the atom
+has just one in the column and row for the excited state.
+There's no off-diagram matrix element.
+There is no phase information.
+So at T equals 0, no coherence, no phase.
+
+So now we have excited the atom with a pi pulse,
+but we have-- there is no phase information
+in the atomic system.
+And that would also mean that when we now
+start mapping the quantum state of the atom
+onto the quantum state of the light,
+there won't be any specific phase for the light.
+We could say, after the spontaneous emission is over,
+before we do any measurement process,
+we have mapped a Fock state of the atom
+onto a Fock state N equals 1 of the photon field,
+and there is no phase associated with a number state.
+But let's be a little bit more specific here.
+Let's assume we can have an ensemble of atoms,
+we can repeat the measurement many times.
+And let's ask the question, what happens
+after the atom which was originally in the excited state
+has decayed to 50%.
+Well, then we have a wave function
+which is a superposition of ground and excited state.
+And there is a phase phi now, but this phase phi
+is completely random.
+So for those of you who are concerned that I call it a wave
+function, you can be more specific
+in the sense of Quantum Monte Carlo,
+that at any Quantum Monte Carlo wave function, at any given
+moment you have a wave function, but the ensemble
+of your-- the ensemble, as in the ensemble of your atom,
+is now an ensemble of all those wave functions
+with a random phase phi.
+And this is a way how you can decompose
+the statistical operator of the system.
+But the result is the phase is random.
+If the phase is random, that means no coherence.
+The statistical operator does not have an off-diagram matrix
+element.
+It also means that if you would ask
+what is the ensemble average of the dipole moment--
+the dipole moment is given by the Bloch vector,
+value of all phases are equally populated in your ensemble--
+the dipole moment average is to 0.
+But of course, you have a d-squared value,
+a value of the dipole moment, which is not 0.

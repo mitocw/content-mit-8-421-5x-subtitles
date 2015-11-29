@@ -1,0 +1,93 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 83 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+When we talk about coherent spectroscopy,
+I want to just in 10 minutes or 15 minutes
+show you some techniques, spectroscopic techniques, which
+exploit the coherence between several quantum states.
+And, well, I do it for a number of reasons.
+One is coherent spectroscopy actually
+allows us to obtain information about the level structure
+even if this level structure is much narrower
+than the Doppler beats.
+So it is a sub-Doppler technique to exploit coherence.
+And before people had lasers, before people invented
+sub-Doppler laser spectroscopy, often coherent spectroscopy
+was the only way how you could obtain a detailed structure
+of the atom.
+So the reason why I explain coherent spectroscopy
+is to just give you a little bit of idea about that you
+appreciate how smart people were before lasers were developed.
+But also, it illustrates what coherence can do for us.
+So it's a nice example for the concept of coherence.
+When I was a graduate student, textbooks
+had dozens of pages, 50 pages, on coherent spectroscopy.
+The Hanle effect, quantum beat measurements,
+it's all old-fashioned.
+Because with the laser, we have now-- and especially
+[INAUDIBLE] atoms and the laser, we
+have such wonderful tools to go to
+the ultimate fundamental precision of quantum
+measurements.
+But still, coherence is important.
+So let me talk about one method which is called
+quantum beat spectroscopy.
+The selling point about quantum beat
+spectroscopy is that it allows the measurement of narrow level
+spacings-- just think about [INAUDIBLE] splitting
+in a magnetic field-- without any form
+of narrow-band excitation.
+So you can also put it like this.
+If you don't have any way to selectively excite levels,
+but you're interested what is the level spacing but you
+cannot sort of have a narrow-band laser,
+have atoms which stand still and scan and get peak, peak, peak,
+what you can still do is you can just excite all the levels
+at once.
+In other words, you hit the atom with a broad laser,
+like with a sledgehammer, and then using your beat node,
+you see some blinking quantum beat between the excitation
+of the levels.
+So that's the idea.
+So we have-- we assume we have a ground state,
+and then we have an excited-state manifold.
+And in this excited-state manifold,
+we have several levels distributed
+over an energy interval delta.
+And yes, we don't have a narrow-band source.
+We may just have a classical light source.
+But if you use a short pulse that the pulse duration is
+much smaller than the splitting between energy levels,
+then we create a coherent superposition of those levels.
+So therefore, what we create at time
+T equals 0 is a coherent superposition of energy eigen
+levels.
+And the important thing is that this is a time T equals 0,
+but now when time goes on, each amplitude, each part
+of the wave function, evolves with its eigenfrequency, omega
+i.
+And if we would then look at, let's say,
+the emissions spectrum as a function of time,
+we will find that-- and I will give you a little bit more
+detail later-- that yes, there is the decay approximated
+with a natural spontaneous emission
+time with the inverse of the natural line widths,
+but we observe some oscillations, which
+is the interference term of the different terms in the wave
+function.
+So therefore, if you would take this spectrum
+and perform a Fourier transform, you
+will actually observe different peaks.
+This is frequency, and the frequency peaks
+are at discrete frequencies corresponding to frequency
+differences between the excited state.
+And ideally, the widths of this is determined
+by the natural line widths.
