@@ -22,10 +22,10 @@ of spontaneous emission.
 
 So the first choice is, spontaneous emission
 is nothing else than a unitary transformation,
-unitary transformation or unitary time evolution
+(unitary transformation or unitary time evolution)
 of the wave function of the total system.
 And option B is, spontaneous emission introduces-- well,
-maybe it's for a master equation,
-so optical Bloch equation-- introduces a random phase
+maybe it's through a master equation,
+through optical Bloch equation-- introduces a random phase
 into the time evolution of the quantum mechanical system.
 So what is the picture you have on spontaneous emission?
