@@ -1,0 +1,77 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22r.txt
+#
+# Captions for 8.421x module
+#
+# This file has 67 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+If you think you know already everything about how atoms
+interact with light from two-level atoms,
+I have to tell you that's not the case,
+because a three-level system has many new effects.
+
+So one, of course, is that atoms can now
+interact with two electromagnetic fields.
+And those two electromagnetic fields can affect each other.
+
+And this can happen through coherent or incoherent
+mechanisms.
+
+In other words, you can say it simply.
+If you hit an atom with light and give a two-level system,
+there's no way how the atom can hide.
+It's always excited by the laser.
+But if you have a three-level system,
+you may have a situation where you
+have destructive interference between what the two lasers can
+do to the atom, and suddenly there
+may be a state where the atom is in the dark, where the atom can
+hide from the laser beam.
+And this is something which is fundamentally new
+and has no counterpart in a two-level system.
+So I've already pointed out that the lambda system
+is the most important one, because it has two ground
+states, which can be in a long-lived superposition state.
+
+And so what we want to discuss as possible consequences
+is that in a three-level system you
+can realize a lasing operation without having
+inversion of the population of the ground and excited state.
+So if you always thought, if I want to build a laser,
+the first thing I have to do is make
+sure I have more atoms in the excited than in the ground
+state, yes, this is valid for two-level system.
+But it is no longer valid for a three-level system.
+
+I mean, the reason why you want to invert a two-level system
+is you want to have stimulated emission from the excited
+state, which is stronger than absorption
+from the ground state.
+But if you take advantage of quantum coherence,
+you may have a situation where two possibilities
+for stimulated emission add up coherently,
+but the two possibilities for absorption
+add up destructively.
+And therefore, you can avoid absorption.
+You have only stimulated emission,
+but you have not achieved that through inversion.
+You have achieved that through quantum coherence,
+a fundamentally new effect.
+So we have lasing without inversion.
+We have the phenomenon I mentioned already
+that atoms can hide in the dark if the two laser
+beams in the excitation mechanism destructively
+interfere.
+This is called electromagnetically induced
+transparency.
+Systems which have sharp resonances
+in three-level systems are used for reducing the group
+velocity of light, which goes under the name slowing light
+or even putting the light to a standstill, stopping light.
+And three-level systems are also used
+for a quantum mechanical memories
+for quantum computation.
+Any questions?

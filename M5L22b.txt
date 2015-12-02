@@ -1,0 +1,65 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 55 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to come back to this topic of spontaneous emission
+because many of us have deep-rooted misconceptions
+about what spontaneous emission is.
+And we discussed on Wednesday that spontaneous emission
+is not so spontaneous as many of us
+assume because it's a unitary time evolution with an operator
+with a term in the Hamiltonian.
+And it is exactly this operator which
+takes the wave function of the total system, the atoms
+and the light to whatever it is later on.
+There is no random phase.
+There is no random variable in this time evolution.
+Exclamation mark.
+But there are certain aspects associated
+with spontaneous emission and I want to address them.
+But on the other hand, if you think
+about spontaneous emission the most fundamentally way,
+the first thing you should think about it
+that you have oscillation.
+Here you see in the simplest possible system
+what spontaneous emission can do for you.
+
+So the way how we want to discuss an important aspect
+of spontaneous emission, we want to go
+beyond the vacuum Rabi oscillation is the following.
+We start with an atom in the ground state
+and the cavity is in the vacuum state.
+But now we take a short pulse of a laser
+and we prepare the atom.
+And the laser, because the laser outputs a coherent state,
+the coherent state is a well-defined phase.
+And this phase appears in the superposition
+between a ground and excited state
+because the superposition is great with a matrix element,
+which has the electric field of the laser.
+But then we allow spontaneous emission to happen
+and spontaneous emission to happen
+means we take our operator which I just showed you,
+we propagate forward in time in such a way
+that we just go through half a cycle of a vacuum Rabi
+oscillation, which means everything
+which was in the excited state is now in the ground state.
+And by just exactly propagating this system forward in time,
+we obtain this state and that's sort of something
+I hope very, very insightful which
+we arrived at the end of the last lecture
+that the quantum state of the atom
+has been perfectly mapped onto the photon field.
+So all of the information which was
+in the atom before spontaneous emission
+is now available in the photon field.
+So the next thing to address is the [INAUDIBLE].
+What is the phase of this spontaneously emitted
+photon and this is what you want to understand now.

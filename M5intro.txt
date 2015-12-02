@@ -1,0 +1,44 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5intro.txt
+#
+# Captions for 8.421x module
+#
+# This file has 34 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Welcome to module five of the course
+on atomic and optical physics.
+We finish this sequence with the topic of coherence.
+Coherence has always fascinated me,
+because it is at the heart of many important phenomena
+in physics.
+Coherence leads to beautiful interference of visible light,
+and coherence is also the mechanism behind superphenomena
+like superfluidity, superconductivity,
+and superradiance.
+Coherence occurs when we have a definite phase
+between two or more amplitudes, which can then interfere.
+This general principle can be found in many phenomena
+in atomic and optical physics.
+We start out by discussing superposition between two
+quantum states within one atom, and then
+we generalize it to three levels.
+The step from two to three levels
+allows us to discuss many interesting and
+counterintuitive phenomena, like electromagnetically
+induced transparency, lasing without inversion, and stopped
+and slow light.
+We then discuss coherence between atoms.
+To give you an example, when you have two atoms,
+and one atoms is in an excited state,
+it may not be able to emit a photon
+because there is destructive interference between the two
+atoms.
+We can generalize this to many atoms,
+and then we have the phenomenon of superradiance.
+A chromatic phenomenon which occurs
+when many atoms collectively interact with the radiation
+field.

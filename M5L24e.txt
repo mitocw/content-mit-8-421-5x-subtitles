@@ -1,0 +1,36 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 26 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+For the possible applications-- one
+is you can design non-linear materials.
+Usually, when you want to have frequency conversion processes
+or optical switches that one laser beam effects
+another laser beam, you want a very strong non-linear response
+of your medium.
+You usually get that if you go near resonance.
+But near resonance you have strong absorption.
+But now, using the concept of EIT, you can have both.
+You can have the strong non-linear response
+of your medium near resonance, but you suppress absorption.
+You get a window of transparency using EIT.
+So you can have near-resonant materials without absorption.
+Again, in principle, I'm not aware
+that this has really taken off in a bigger time.
+One would be if you want to do very sensitive spectroscopy.
+Assume you want to measure one isotope, which
+has a tiny little abundance.
+But you have to observe it against the background
+of a very strong isotope.
+If you could switch off the absorption of the background,
+the absorption of the strong isotope,
+you could still see a small amount of a trace isotope
+in the presence of a strong absorption line.
+So sensitive detection of trace elements.

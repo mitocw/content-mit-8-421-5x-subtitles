@@ -1,0 +1,22 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22t_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 12 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So we have a very simple solution.
+We pump all the atoms into one quantum state
+if you have only one of the laser beams.
+But the question is now, can we have a similar situation
+when both laser beams are on?
+
+And what I mean by that is, is it possible
+now to pump all the atoms into a state which does not
+scatter any light, which does not
+react with the light, which is never excited to the excited
+state?

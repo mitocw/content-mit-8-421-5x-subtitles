@@ -1,0 +1,83 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22j.txt
+#
+# Captions for 8.421x module
+#
+# This file has 73 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What we have actually done is, we
+have done a version of the double-slit experiment.
+We have a ground state.
+We had our excited states, e sub i.
+And our broadband source was creating a coherent excitation.
+And then we were observing the light which came out.
+But we were performing a multi-slit experiment.
+We had a laser pulse and then we see photons coming out.
+But it is fundamentally not observable
+which intermediate state was responsible for the scattering?
+So therefore, we have, in the Feynman sense,
+several indistinguishable paths going
+through different internal states.
+And therefore, we get an interference effect.
+Some of what I'm saying we will retrieve
+later on when we talk about three-level systems.
+We will also have situations that sometimes we
+go through two possibilities for the intermediate state.
+And if we have no way, even in principle,
+to figure out which intermediate state was involved,
+we have to sum up the amplitudes.
+And that's when we get a beat note.
+This technique is a Doppler-free technique.
+Because, even if you take a single pulse
+from a light source, you have a Doppler broadening, which is k
+dot v, v the thermal velocity.
+And this can be much, much broader.
+But you will still see the quantum beats.
+Maybe I should say in principle, because a beat
+note happens at the much smaller frequency, delta.
+Or maybe I should say that the Doppler shift is reduced
+by the splitting of the excited states over the frequency
+of the excited laser.
+Of course, if you have your different atoms emitting
+at different frequencies, you have a Doppler shift.
+But since you measure the difference frequency,
+you only get the Doppler shift associated with the difference
+frequency.
+Now, let me come back to the previous example I had about
+the spin-1/2 system.
+If you assume you have a spin1/2 system,
+spin up and spin down, which is excited with a laser, which
+is linear polarization.
+You would then create a superposition of up and down.
+Which, let's say, is now a dipole moment, which
+points in the x direction.
+A dipole moment which points in the x direction
+will not emit light along the axis
+of the dipole moment because of the dipolar emission pattern.
+It will only emit to the side.
+But I mentioned to you that the dipole moment, or the spin,
+which is originally in x, will now oscillate with the Larmor
+frequency in the xy plane.
+So the picture you can actually have
+of such a quantum beat and quantum sleep superposition
+is like the lighthouse.
+You have a search light at the lighthouse.
+And the searchlight is just rotating
+at the Larmor frequency.
+For instance, you wouldn't see light right now.
+Now you don't see light.
+Now you don't see light.
+It's really like a classical lighthouse,
+which is emitting light at the Larmor frequency.
+So if you have a fluorescence detector which
+looks at the atoms from a certain direction,
+you will pretty much see the lighthouse effect.
+That the fluorescence off this coherent superposition of atoms
+goes on and off, on and off, on and off.
+And this is sort of a very nice visualization.
+How you obtain what I showed here,
+a beat note in your detected signal.

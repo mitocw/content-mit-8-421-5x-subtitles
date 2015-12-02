@@ -1,0 +1,43 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22k.txt
+#
+# Captions for 8.421x module
+#
+# This file has 33 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me talk about another aspect of coherence.
+And of course, they are all related.
+Coherence is always related to the phase, to beat notes,
+superposition, but let me now talk about one aspect, which is
+related to delayed detection.
+
+When I was a graduate student and I
+learned about spectroscopic techniques, I don't know,
+somehow I was so fascinated by techniques
+which could measure spectroscopically transitions
+better than the natural line widths.
+I don't know, maybe from what I had read before,
+what I learned as an undergraduate,
+the natural line widths appear to be
+the natural or fundamental limit.
+So the topic I'm teaching right now sort of
+has always had a certain fascination for me.
+But you will, of course, also realize that in the end,
+the answer is rather simple.
+Well, once you know the answer, most answers are very simple.
+So we want to talk about delayed detection.
+So let's say we excite the system.
+You can think about a quantum beat experiment.
+You have a short pulse, and then your quantum beats happen.
+
+And now the question is, normally,
+when you do a measurement on a decaying system,
+you're always limited by the natural line widths,
+by the inverse of the lifetime.
+But now, maybe you want to be smart
+and just say, well, I start the detection, I only detect atoms
+after a time t 0 which is much, much larger

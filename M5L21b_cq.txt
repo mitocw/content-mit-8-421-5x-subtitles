@@ -1,0 +1,31 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L21b_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 21 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Before I talk about manifestations of coherence,
+I have two bigger questions, because the first form
+of coherence I want to discuss is
+the coherence involved in exciting atoms and the atom
+emitting light.
+It's related to the spontaneous emission and scattering
+problem.
+So just to sort of figure out what you know already,
+let me ask you something about the nature
+of spontaneous emission.
+
+So the first choice is, spontaneous emission
+is nothing else than a unitary transformation,
+unitary transformation or unitary time evolution
+of the wave function of the total system.
+And option B is, spontaneous emission introduces-- well,
+maybe it's for a master equation,
+so optical Bloch equation-- introduces a random phase
+into the time evolution of the quantum mechanical system.
+So what is the picture you have on spontaneous emission?

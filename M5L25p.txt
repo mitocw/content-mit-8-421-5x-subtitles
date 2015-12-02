@@ -1,0 +1,18 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25p.txt
+#
+# Captions for 8.421x module
+#
+# This file has 8 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Well, that's the end of this course.
+Let me thank you for your active participation.
+Sometimes as a lecturer, you learn as much as the students.
+And I think, partially based on your questions and discussions,
+this is really true.
+I've learned a few new aspects of atomic physics.
+I hope you have learned something too.
