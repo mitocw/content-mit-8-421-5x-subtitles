@@ -1,0 +1,124 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 114 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+Any questions?
+Yes, Colin.
+Are there any requirements on these two atoms
+being located, like, within an optical wavelength
+of each other?
+Yes and no.
+In the simplest example of [? super ?] [? variance ?],
+we want to put them to within one optical wavelength,
+and then we do not have any phase factors.
+But we will talk about it next week that we have also
+[? super ?] [? variance ?] in extended samples.
+And then we only get the [? super ?] [? variance ?],
+a coherence between atoms, into a smaller solid angle where
+the phase factors are-- well, where the different phases are
+very well-defined.
+If you would now average the spontaneous emission
+over different directions, you would get propagation phases
+and you would have-- and the atoms would only
+be coherent in one solid angle, but not be
+coherent in other solid angles.
+Other questions?
+
+So, that's to the best of my knowledge
+at the most fundamental limit what spontaneous emission is,
+how accurately a spontaneously-emitted photon
+carries forward the phase of the laser beam
+which excited the atom, and then eventually,
+when we have completely lost the phase because we excited
+the atom to an excited state.
+All-- everything what we discussed will be actually
+carried to the next level when we discuss [? super ?]
+[? variance, ?] because then we have n atoms--
+n can be a big number-- which we excite together.
+And if they emit n photons, the phase of this n photon field
+can be very precisely measured.
+So some of the uncertainties we have here
+simply comes from the fact that, if you have only one
+photon or one atom, there are naturally quantum fluctuations
+of any phase measurement.
+But that part will go away when we go to ensembles of atoms
+where we have many atoms, and [? super ?] [? variance ?] is
+then the way how we can sort of revisit the subject,
+how well can you retrieve the phase of the laser field from
+the spontaneously-emitted photons.
+
+Other questions?
+Nancy.
+For the [INAUDIBLE] [? single ?] [? atom ?],
+[INAUDIBLE] [? emitting ?] [? the phase ?] [? out ?]
+[INAUDIBLE], or we just don't [INAUDIBLE] that we're going
+to use for many atoms later?
+So what's the question?
+We have [? the ?] [? pi over-- ?]
+[INAUDIBLE] [? equals ?] what measurements
+do we make if we have just one atom.
+Do we make any measurements, or more phase information?
+I think the measurement is, in a way, what I indicated here.
+We excite the atom.
+Then we switch off this path.
+And then we take this short pulse of light.
+It's a wave train which has a duration
+on the order of the natural lifetime of the atom.
+And this wave train is interfered
+with a local oscillator.
+And the interference term allows us to retrieve the phase.
+And if you use a strong local oscillator,
+then we pretty much retrieve the quantum limit
+of the measurement.
+And the quantum limit of the measurement
+is what I showed you in this cartoon
+drawings of the phase-space distribution.
+So essentially, we can read a Fock state like this.
+If there is a Fock state, we-- if you have a Fock state
+and we'll repeat the measurement many times,
+we will measure random phase.
+
+So what happens here is-- let me put it this way.
+The homodyne detection is a way how
+we want to measure the phase.
+And whenever you want to measure the phase,
+you get a phase, because the number you get from a phase
+measurement is a phase.
+But if you have a Fock state which
+has not a specific phase but an equal probability
+for all phases between 0 and 2pi,
+then if you repeat a phase measurement many, many times,
+you will get a random result for the phase.
+So I think that's what my question originally was,
+what measurement would you perform for this [INAUDIBLE].
+Like, would you still do a phase measurement?
+Because it's--
+It's your choice.
+If you want to do a phase measurement,
+that's a way to do it.
+And then for a Fock state, you will get a random phase.
+But maybe for the Fock state-- of course,
+you can see in hindsight the Fock state
+doesn't have a phase, so maybe you
+shouldn't bother measuring the phase.
+The special thing about the Fock state
+is that it has exactly one photon.
+And so maybe you want to have a measurement which
+is measuring the special character of the Fock state,
+namely that you have sub-Poissonian distribution
+of the photons.
+Of course, this aspect of just having one photon
+gets completely lost when you have a beam splitter
+and you have [? zillions ?] of photons in your laser beam
+with all the Poissonian fluctuations
+in a coherent state and you superimpose it.
+But this is nothing else than complementarity.
+You can either measure the phase,
+or you can measure the photon number.
+And the question is, what are you interested in.

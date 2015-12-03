@@ -1,0 +1,80 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25n.txt
+#
+# Captions for 8.421x module
+#
+# This file has 70 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+You can formally describe that.
+You can now define new Dicke states with respect
+to this-- to the preferred mode.
+And the preferred mode is the mode in the x direction.
+So what I've done is-- remember, we have those atoms.
+Those atoms are now sitting at different positions, x1 and x2.
+And if I define Dicke states, which
+have phase factors e to the ikx1, e to the ikx2,
+if now this atom excites-- emits a photon
+and this atom emits a photon, well, the second photon
+is x2 minus x1 ahead of this photon,
+if you think of those atoms sitting aligned in a string.
+But the phase factor is exactly cancelling the propagation
+phase for the first atom in such a way that if you are now
+coupling this stage to the electromagnetic field,
+the phase factors of the electromagnetic field
+in the mode cancel with those phase factors,
+and you again have the situation that each excited--
+each state here has an equal amplitude for emission.
+So now you have n possible contributions,
+and the normalization is 1 over square root n,
+and everything falls into place.
+And you can define that for two excited atoms with two phase
+factors, and so on.
+So you can use immediately the same formalism.
+And what happens is those phase factors are chosen
+that for the interaction Hamiltonian--
+and our interaction Hamiltonian is now different, it is di.
+And now, in an extended sample, we
+have to keep track of the position of the atom.
+So for the coupling to the mode in the x direction,
+we have those phase factors.
+
+So all the phase factors cancel.
+And actually, I'm not telling you
+whether this is plus or minus in order to cancel it.
+You pick the sign that they all cancel.
+And then you have superradiance, you
+have fully constructive interference.
+
+So all this looks now the same as superradiance,
+but there are also things which are different.
+And this is the following.
+If the atom would emit now photons
+not in the preferred mode, then remember,
+we had sort of the Dicke ladder.
+We had sort of this most superradiant ladder, little bit
+less superradiant ladder, and eventually we
+had the subradiant ladder in order of smaller and smaller
+total quantum number s.
+Emission which is not emission in the preferred mode
+stays in each ladder, and we have the superradiant cascade.
+But emission into other modes is now coupling different s states
+because the operator, or the phase factor e to the ikr
+has broken the compete permutation
+symmetry between the sides.
+We've changed the symmetry.
+We've not the completely symmetric sum.
+We have a symmetric summation with phase factors.
+So therefore, the phenomenon is somewhat different,
+but we still have superradiant cascade for the preferred mode.
+And the result is that we have an enhancement
+for the most symmetric for the superradiant
+states, which is given by that.
+And this is nothing else than the resonant optical density
+of your sample.
+So in experiments, many of them go on in [INAUDIBLE] lab,
+where he uses collective spin and the storage
+of single photon in n atoms, the figure of merit of his samples
+is always the optical density, the number

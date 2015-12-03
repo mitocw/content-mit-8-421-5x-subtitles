@@ -1,0 +1,109 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24j.txt
+#
+# Captions for 8.421x module
+#
+# This file has 99 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's now go to the more interesting case
+that we have a coupling laser.
+What happens now?
+We have our two states.
+The excited state is coupled with the laser and Rabi
+frequency omega two.
+Now we know that the laser omega two, if it is not on resonance,
+will give us an AC Stark shift.
+This AC Stark shift is, we've gone through that several
+times, is the matrix element , or Rabi frequency squared,
+divided by the detuning.
+If we now bring in the probe laser,
+what are the features we expect?
+
+Well, there are two features.
+One is, we've just discussed, the trivial case above.
+If you tune to probe laser into resonance with the excited
+state, we have single-photon absorption.
+We get a broad feature.
+It's almost like in a two-level system.
+But in contrast to the case I just discussed above,
+the excited state level E has now an AC Stark shift.
+So the resonance is shifted.
+That's now becoming a four-photon process.
+Because we need two photons going up and down
+with a coupling laser to create the AC Stark shift.
+And now we have a laser from the probe beam.
+And the photon is scattered.
+So it's a four-photon process.
+and it will give us a broad resonance,
+which is now AC Stark shifted.
+But in addition, we have a resonance,
+which is the Raman resonance.
+When the Raman detuning is zero, then we
+absorb from the probe laser and we
+emit in a stimulated way with the coupling laser.
+And we have a stimulated two-photon transition.
+Now, what is the Ritz of this stimulated two-photon
+transition?
+
+Well, we go from a stable ground state
+to-- I wanted to say another stable ground state,
+but this other stable ground state
+is now scattering photons.
+So because of the presence of a strong coupling laser,
+you have broadened this level F by photon scattering.
+You interrupt the coherent time evolution
+by scattering photons.
+And the photon scattering happens in perturbation theory
+by the amplitude to be in the excited-- I need a little bit
+more room-- the amplitude to be in the excited state
+squared times gamma.
+So, the scattering rate gamma scattering
+is Rabi frequency divided by detuning.
+This is the amplitude to be in the excited state.
+We square that, and then we multiply with gamma.
+And if I can trust my notes, as a factor of 2,
+which I don't want to discuss further.
+This is a qualitative argument.
+The analytic expressions are in the reference
+I've given to you.
+So the situation which we have right now
+can be, in a very powerful way, summarized as follows.
+We have our ground state.
+We have two continua we can coupling to.
+We can couple to the excited state, which
+has a Ritz gamma, through a single photon,
+but there is the AC Stark shift.
+Or we can couple through a two-photon Raman transition
+to the state F. But the Ritz is much, much smaller.
+Because it is only the scattering rate due
+to the off-resonant coupling laser.
+So G couples now to a narrow and a wide, well, excited state.
+One excited state, of course, is the state F.
+But the coupling laser puts some character of the excited
+states into the state F.
+And the most important thing now is the following.
+And this is sort of the theme I've
+emphasized again and again when we discuss three-level systems.
+Those two states have a Ritz.
+And the Ritz means, they spontaneously emit light.
+But they emit light into the same continuum.
+So if you start in the ground state.
+Your probe laser has a photon, and the photon gets scattered.
+You do not know for which channel it has been scattered.
+So in general, and this is sort of as far as I
+want to push it in this class.
+In three-level system, we have now the interference
+between those two continua.
+One is narrow and one is wide.
+So let me just write that down because this is important.
+But both excited states couple to the same continuum.
+And by continuum I mean the vacuum of all empty states
+where photons can be scattered.
+And this is the condition for interference.
+
+And this is, of course, what gives rise
+to electromagnetically induced transparency.

@@ -1,0 +1,117 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25m.txt
+#
+# Captions for 8.421x module
+#
+# This file has 107 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Superradiance would not be as important
+as it is if it could not be observed in extended samples.
+So now I want to use the last 10 minutes
+to show you what is kept and what
+has to be dropped when we talk about extended samples.
+For pedagogical reasons, let's assume
+we have an extended sample.
+It's sort of a Cuban cigar, a really thick cigar.
+And this is now our extended sample.
+And what I need is, I need the cross section of the sample A.
+And let's assume the length's L. This
+is diameter D. It's a cigar is much, much larger than B.
+And yes, we are talking about superradiance.
+We are talking about spontaneous emission.
+But if you see a long cigar with excited atoms,
+you think immediately about lasing action.
+A photon is emitted and is amplified along the path.
+And, of course, the preferred direction,
+where you would expect the maximum effect to happen,
+is when the light is emitted along the long axis
+of the cigar.
+So we want to consider now modes, preferential modes,
+along the x-axis.
+So, if you now assume that you have many atoms and they emit
+light.
+If an atom here and here would emit light in this direction,
+it may constructively interfere.
+But in another direction it will destructively interfere.
+But let us now consider, what is the solid angle into which all
+the atoms can coherently emit?
+Well, you know that from classical optics
+the emission into a solid angle of lambda square over A
+can be coherent.
+Sort of similar to when you have a double slit
+and you ask, over what angle do the two slits emit in phase?
+You get a bright fringe.
+Then you get a dark fringe.
+You get the next bright fringe.
+The coherence, the angle, over which the path lengths
+differences do not to add up to more than lambda
+is sort of the diffraction limited angle.
+Which for a beam off size D is lambda over D.
+And if you take it to the second dimension,
+the solid angle is lambda square over D square.
+So that's what I'm talking about.
+So if you would sort of give all the atoms in your sample
+just the right phase that they are
+coherent to emit into the x-axis,
+they will also coherently emit into a small solid angle.
+And the solid angle is given by this number.
+So the gist of it is, and I will not completely prove it to you.
+I just want to give you a taste.
+Is that, therefore, we still have
+a superradiant enhancement.
+We know the superradiant enhancement previously,
+when we had the localized system, was n.
+But now we have the n atoms act together.
+But they're not acting together for emission into 4 pi.
+They are acting together for emission into the solid angle.
+And if I write the big N as density N
+times L times A square.
+The A square cancels out.
+And I get N lambda square L. And if you remember
+that the cross section of an atom
+was lambda square for absorption.
+If the atom is excited, the cross section
+for amplification of light for stimulated emission
+is also lambda square.
+So lambda square is the gain cross section.
+And what we find now is the superradiant enhancement factor
+is nothing else like something which
+reminds us of a laser, which reminds us of optical gain.
+And actually, the lasing phenomenon
+in superradiance in extended samples has a lot of analogies.
+In some limits it's even identical.
+When we're talking about spontaneous emission.
+We're not talking about stimulated emission.
+But if you have a system, which is in some excited state,
+superradiant Dicke states, and we
+are asking what are the spontaneously emitted
+photons coming out?
+To say different atoms emit into the same mode.
+And now you have to add up the fields coherently.
+This is the language we have used so far.
+Or if you use the language, one atom emits a photon.
+And this photon gets amplified on its way out.
+Those two languages strongly overlap.
+Or in some limits are even identical.
+So the amplification of a photon on its way
+out, this is behind superradiance.
+But when we localize the atoms to lessen the wavelengths,
+well the atoms are pretty much emits as a whole.
+And there is no path lengths of the size
+of the optical wavelengths where you can say the photon
+propagates gets amplified.
+So we have looked at just what comes out of it.
+But in an extended sample, you could even address the question
+how do the photons get amplified, magnified, augmented
+when they travel from the center to the edge?
+So you could actually ask what is
+the light intensity as a function of the position
+within the cigar?
+For localized samples you can't.
+So let me just write that down.
+So this is analogous to optical amplification
+in an elongated inverted medium.

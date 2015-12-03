@@ -1,0 +1,89 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 79 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+I want to give you a quantitative touch
+without doing too much math.
+So let me just write down Schrodinger's equation.
+We have the three amplitudes, the three states involved,
+E, G, F. Schrodinger's equation gives us
+the time derivative, c.f.
+
+Since we assumed-- in the [INAUDIBLE] state
+picture, we can assume everything is degenerate.
+But now we have couplings.
+And the only couplings are-- and this
+is what I was emphasizing-- between ground and excited
+state with a Rabi frequency omega 1 and between the state f
+and the excited state with a Rabi frequency omega 2.
+So the important part is-- I can write it down,
+but the third equation is the one
+I want to focus on, that you can only build up population
+in the final state by transferring with a Rabi
+frequency omega 2 population from the excited state.
+So let me just assume that Rabi frequency omega 1 equals
+omega 2 equals omega Rabi.
+Let's have a symmetric situation so I can now completely focus
+how can you get from the excited state to the final state,
+but how you get from the ground state,
+from the state g to the excited state, is fairly symmetric
+here.
+OK.
+So what we want is we want that at the end of the transfer
+time, t transfer, the final state
+amplitude is on the order of 1.
+This would be 100% transfer.
+So therefore, just looking at the differential equation
+above, that means that this here has to be 1 divided
+by the transfer time.
+So therefore, we find that for this adiabatic transfer,
+the excited state amplitude has to be [INAUDIBLE] factors
+on the order of two now has to be
+1 over the Rabi frequency times the transfer time.
+So the probability to be in the excited state
+is the amplitude squared.
+
+And if you're asking, which I think is a practical question
+and I think this-- I suggest to use this as a figure of merit
+when we discuss how well, how perfect have we transferred--
+how perfectly have we transferred population.
+We can now ask what is the probability
+of spontaneous emission.
+
+P spontaneous is the probability to be
+in the excited state times gamma integrated over time.
+
+So what we obtain for that is, yes, it's
+proportionate to gamma.
+But we have the excited state amplitude squared.
+We've multiplied with the transfer time.
+So therefore, what we have in the denominator is
+[INAUDIBLE] power or the Rabi frequency
+squared times the transfer time.
+So therefore, this probability to go
+to a spontaneous emission, which is also the integrated
+probability of having-- the integrated
+probability of having populated the excited state,
+it goes to 0 in the case that you have infinite laser power
+or that you are infinitely patient.
+So one question is how long can the transfer time be.
+And this is actually setting a limit to it.
+We're talking about a coherent transfer.
+
+So the transfer time has to be smaller than the coherence
+time of your system.
+For instance, we do that all the time
+in my lab if you go from one sub-level
+to another sub-level and we have magnetic field noise.
+If the magnetic field noise is destroying the phase
+relationship between the two hyperfine states,
+then the coherent transfer gets interrupted.
+And then eventually we are no longer
+talking about the amplitude, we are talking about population
+in the excited state.

@@ -1,0 +1,73 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 63 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So this is sort of the framework.
+I want to sort of show you examples of a probe absorption
+spectra.
+It's more a little bit of show-and-tell.
+I want to show you the result if you would work that out.
+It's pretty interesting.
+So first, I want to discuss the case where the coupling
+laser is really in resonance.
+So we are near the one-photon resonance.
+
+So let me assume first that the Rabi frequency of the coupling
+laser is much, much larger than gamma.
+
+Then, if you look at the probe transmission,
+we have this situation that we know
+when we are right here in the middle we
+have a window of transparency.
+But if we detune the Rabi frequency over 2,
+we hit the bright state 1.
+And if we detune in the opposite,
+we hit the bright state 2.
+And the splitting in this situation, delta bar,
+is nothing else than the Rabi frequency omega 2.
+So what we have is we have that detuning in between.
+And we know already here is our special point.
+And that's what we have discussed
+for long electromagnetically-induced
+transparency.
+The two brights states are at plus and minus 1/2
+the Rabi frequency of the coupling laser.
+We know that we have very strong absorption here.
+And what you get is sort of broad feature.
+But this was the situation when we
+drive the system very strongly.
+
+I now want to discuss the case that the coupling laser is
+much weaker than gamma.
+Then the splitting between the two bright states
+was the Rabi frequency.
+But the [INAUDIBLE] gamma, so then the two bright states
+pretty much merge into one continuum feature
+of [INAUDIBLE] gamma.
+For that situation, we have a broad feature of absorption,
+which is on the order of gamma.
+Or if you are an opaque medium, of course,
+you put the absorption coefficient
+into the exponent of an exponential function,
+and you get a [INAUDIBLE] which is wider than gamma.
+But then we have our phenomenon of EIT.
+But the width of this feature is now much smaller than gamma.
+So what we have here in those two situations
+where the lasers are close to resonance with the excited
+level, we have this situation that this strong absorption
+feature due to the bright states.
+Either one strong feature of [INAUDIBLE] gamma,
+or two features here.
+Those broad single-photon absorption features,
+they really overlap with our window of transparency.
+And what I find very insightful is now to discuss a situation
+where we separate the two.
+And I want to show you what happens.
+And it gives a very interesting profile.

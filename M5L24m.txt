@@ -1,0 +1,103 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24m.txt
+#
+# Captions for 8.421x module
+#
+# This file has 93 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Colin.
+So the way you drew the level diagram,
+you only have the f, I think, [INAUDIBLE].
+
+Yes.
+Actually I emphasized that we have an AC Stark shift,
+and what I didn't say is-- when I discussed it here--
+that the AC Stark shift pushes this level down
+and pushes the other level up.
+But since we are talking about a very broad resonance
+in the excited state, for all practical matters,
+the AC Stark shift doesn't matter.
+Whereas for the narrow Raman resonance,
+the AC Stark shift is important.
+Also, you showed it on the plot that the shift of the excited
+state [INAUDIBLE].
+So maybe let me just-- sorry, let me just think.
+So the AC Stark shift for that detuning
+would shift this level up and would shift this level down.
+So what's the second question?
+You drew on that plot that the shift to the excitement state
+was much lower-- or higher than the shift
+to the ground [INAUDIBLE].
+
+You mean those two shifts?
+Yeah.
+Oh, this shift is we have assumed-- we have
+to now do the book-keeping.
+We have assumed that the coupling
+laser has a large detuning.
+The coupling laser is very far away from resonance.
+And if you want to hit the excited state,
+we now need a Raman resonance, which is delta 2.
+But the Raman resonance capital delta 2
+means that we are smack on the single photon
+resonance for the probe laser.
+So this feature is pretty much we take the ground state
+and go exactly to the excited state with a single photon.
+Well, there is an AC Stark shift involved,
+but it's not relevant here.
+Whereas the other feature is the [INAUDIBLE] Raman feature.
+And the one thing I wanted to point out in this context
+is that there is actually a small energy
+splitting between the two-photon Raman feature by the AC Stark
+effect, whereas the EIT feature always
+happens at Raman resonance delta equals 0.
+Because-- just to emphasize that-- delta equals 0
+is really you induce a coherence between g and f.
+It's a dark state.
+And when you have a dark state, in that situation,
+you don't have an AC Stark effect.
+So the EIT feature is at delta equals 0,
+whereas the photon scattering features,
+they suffer-- or they experience--
+it may not be negative to suffer an AC Stark shift,
+but they experience an AC Stark shift.
+
+Further questions?
+Yes.
+[INAUDIBLE]?
+
+Can you relate that to Doppler-free spectroscopy.
+Actually, I don't think so, because I
+would say for the whole discussion here,
+let's assume we have an atom which has infinite mass which
+is not moving at all.
+We're really talking about internal coherences.
+However-- and that's where it becomes related.
+If you look at very narrow features
+as a function of detuning, then of course Doppler shifts
+play a role.
+And if you have very, very, very narrow features,
+you become sensitive to very, very, very small velocities.
+And therefore, you have an opportunity to cool.
+So if you can distinguish spectroscopically
+an atom which moves a tiny little bit and an atom which
+stands still, if you can by a narrow line
+distinguish the two, then you can actually
+laser cool this atom.
+And the EIT feature can give you extremely high resolution.
+I'm not discussing it here.
+I've discussed the phenomenon of EIT, which is
+coherent population trapping.
+But there is an extension which is
+velocity-selective coherent-- VSCPT,
+velocity-selective coherent population trapping.
+And VSCPT was a powerful method to cool atoms
+below the recoil limit.
+But I've not connected anything in-- of coherent population
+trapping with a Doppler shift.
+So for all this discussion, please
+assume the atom is not moving.

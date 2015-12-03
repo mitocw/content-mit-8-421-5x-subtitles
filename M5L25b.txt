@@ -1,0 +1,120 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 110 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+In order to understand it, we have
+to look at an atom in the excited state,
+an atom in the ground state.
+And we want to write down the wave function
+as a superposition of a symmetrized and antisymmetrized
+wave function.
+
+And I shall tell you, I'm going very slowly for two atoms.
+And then once I've introduced the concept for two atoms,
+with a few pen strokes, we can immediately discussing n atoms.
+So all of the physics, all the understanding
+what goes on in superradiance is already
+displayed for two atoms.
+So we want to have a superposition
+of symmetric and antisymmetric wave function.
+The symmetric one is a normalized wave function,
+which is ge plus eg.
+And we call that the superradiant wave
+function, for reasons which will become clear in a moment.
+And if you have a minus sign here,
+the antisymmetric combination we call the subradiant wave
+function.
+Now, what happens is, we have to consider-- so we have
+symmetrized the wave function.
+Well I didn't really tell you why,
+but it's always good to symmetrize.
+Symmetry is, if you can use it, something good.
+And the reason why I symmetrized it
+is because I want to use now, I want
+to look at the interaction Hamiltonian.
+And if I look at the interaction Hamiltonian,
+the one we have seen many, many times, but now for two atoms,
+we will immediately realize that this interaction to Hamiltonian
+is symmetric.
+So therefore, if the Hamiltonian is symmetric,
+it's really a good starting point
+to have the wave function for the atoms expanded
+in a symmetric basis.
+And since I want to emphasize that the whole story I'm
+telling you today has nothing to do
+with the kind of second quantization.
+It is about spontaneous emission,
+but it's not involving any subtlety
+of spontaneous emission, of spontaneous emission and field
+quantization.
+I want to sort of write down the interaction Hamiltonian, both
+in a classical and a quantum mechanically way.
+In the classical way, we have the dipole moment E1, D1.
+We have the dipole moment D2.
+And the atoms talk to the electric field
+at position R and T. But since we assume,
+and now you realize where the assumptions, some
+of the assumptions, are important.
+Since the atoms are localized to within n wavelengths,
+they really talk to the same electric field.
+There are no phase factors.
+In about 55 minutes or so, we'll introduce phase factors
+for extended samples.
+But for now we don't.
+And therefore, what the atoms couple with
+is with a dipole moment which is the sum of the two
+dipole moments.
+
+So this is classical or semi-classical.
+But, so what enters in the Hamiltonian
+is only the sum of the operators for the two atoms.
+And the same happens in the QED Hamiltonian.
+And actually, I will get a little bit more mileage
+out of the QED Hamiltonian, as you will see in a moment.
+Because with the QED Hamiltonian we describe the atomic system
+by-- so at first atom one-- with the raising
+and lowering operator with the atoms interacting
+with A and A-dagger.
+And then I have to add the term where the index one and two are
+exchanged.
+So we are introducing here, where
+it's convenient for a two-level atom, the spin notation.
+Sigma plus and sigma minus are the raising
+and lowering operator which flip the atom
+from the ground to the excited state and vice versa.
+But the important part now is-- and this
+is where everything comes from in superradiance--
+that the coupling involves, not the individual
+spins-- little sigma plus and sigma one
+and sigma 2-- it only involves the sum of the individuals,
+I equals 1-2-2.
+And later we extend the sum to n.
+So therefore, what matters for the interaction
+of the atoms with the electromagnetic field
+is the sum of all the atomic spin operators.
+And the sum is, of course, symmetric against exchange.
+So therefore, when we are asking what
+is the coupling of the state, which
+I called the superradiant state, the one
+where we had symmetrized eg plus ge.
+Or we ask, what is the coupling of the subradiant state to,
+well the state where both atoms are in the ground state?
+Well, now we can use symmetry.
+The left hand side is symmetric.
+The operator is symmetric.
+And now only the symmetric state will couple.
+The antisymmetric state will not couple.
+So therefore, the subradiant state, eg minus ge,
+cannot decay.
+That's why we called it subradiant.
+Well, I think a better word would be non-radiant.
+But non is definitely subradiant.
+And for the matrix element, eg and ge,
+we find that we have actually an enhancement of the coupling

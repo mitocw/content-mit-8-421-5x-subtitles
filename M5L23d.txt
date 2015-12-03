@@ -1,0 +1,69 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 59 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+One important application of the dark state
+is the STIRAP technique.
+STIRAP is adiabatic population transfer.
+
+So STIRAP stands for stimulated-- what is the R?
+Stimulated Raman Adi-- Stimulated Rapid Adiabatic
+Passage?
+[INAUDIBLE] rapid and Raman.
+Yeah, I've heard both [INAUDIBLE]
+
+So we have two choices.
+It's both Raman and rapid.
+A is adiabatic.
+P is passage.
+And STI is stimulated, because it's
+a coherent stimulated process.
+The idea is the following.
+With this concept of a dark state,
+I can immediately explain to you how,
+by changing the intensities of the two laser beams,
+you can make an adiabatic transfer from one stage, G,
+to the other state, F. And this is important
+because in many atomic physics experiments,
+you start with one state and then
+you want to prepare another state.
+You always have the option of having some suitable pi pulse
+and going from one state to the next.
+But the pi pulse has to be exactly pi.
+You have to be careful what the intensity
+and duration of your pulse is.
+But if you can adiabatically go from one state
+to the other one, this is [INAUDIBLE]
+against pretty much everything.
+And I want to now use the concept of the dark state
+to tell you how this population transfer works.
+But before I even get into any explanation,
+the picture is the following.
+The dark state-- if you change laser parameters,
+you can change which state is the dark state.
+I gave you this simple example.
+If one laser beam is on, the state G is the dark state.
+If the other laser beam is on, the state F is the dark state.
+So if you switch one laser beam off and the other one on,
+you have changed the definition of the dark state.
+And as I want to show you, the dark
+state-- we can set it up in the situation
+that the dark state is the absolute ground
+state of the system.
+And you know when you change parameters of your Hamiltonian
+adiabaticity tells you that you always
+stay in the ground state.
+See?
+Now even without any equations you
+understand what adiabatic population transfer is.
+But let's work it out.
+So we want to understand-- and this is our adiabatic process--
+what happens when the laser parameters omega 1 and omega 2
+change slowly.
