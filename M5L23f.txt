@@ -1,0 +1,152 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 142 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+OK.
+Any questions?
+Yes.
+[INAUDIBLE]
+
+Well, I gave you the intuition.
+I said you want to have a dark state.
+The dark state is the ground state, the lowest state
+of the manifold.
+So you want to first make sure that g is the ground state.
+And then you turn [? opposite ?] your Hamiltonian,
+and eventually f is the ground state.
+And this is exactly the situation.
+f is the ground state with the green light on.
+I've given you the intuitive picture.
+Now, I will actually come back to that.
+There is-- the kind of-- it's called the magic
+of the adiabatic state transfer that, if you always
+stay in the dark state-- if you always
+stay in the dark state-- you never populate the excited
+state.
+So it looks like magic that you can
+go from the ground state to the final state
+without having ever any population in the excited
+state.
+And of course-- can that be true?
+No.
+Because there is no coupling [? direct. ?] So somehow,
+in this picture of adiabatic transfer
+always staying in the dark and never populating
+the excited state, maybe we have over-emphasized something.
+We need a little bit of excited state.
+Otherwise, we cannot go there, because our Hamiltonian does
+not allow the direct path from g to f.
+So a lot of people think that STIRAP
+is a method where you can go from g to f without going
+through the excited state.
+I have many, many people talking about it.
+So I want to sort of discuss that in the next few minutes,
+and to some extent demystify it.
+But since you're asking me, now, in a black and white picture,
+STIRAP is the way-- I'm correcting myself in a moment,
+but STIRAP is the way where you can go directly without going
+through the excited state.
+And this is done by the counterintuitive sequence where
+you just want to keep atoms in the dark state,
+whereas the intuitive sequence is really based on the fact you
+want to take population here, put population here, and then
+stimulate it down.
+And this is not what STIRAP is about.
+Other questions?
+Will.
+So if there is very strong coupling
+to [INAUDIBLE] from the excited state,
+because you need to [INAUDIBLE] travel
+through the excited state during STIRAP,
+it's possible to spoil the whole process.
+We will talk about it.
+And actually, in the next minute,
+I want to sort of simply calculate how many photons
+are emitted during the passage.
+And if you now say the photons have a branching ratio,
+this could be a branching ratio to your [? fourth ?] state.
+But by just calculating what is the time-integrated population
+in the excited state, I multiply it with gamma,
+this is the amount of photons scattered.
+And you can see, if you try to do
+a STIRAP with the Bose-Einstein condensate, every time you
+scatter you reach-- you heat up, you reach momentum states
+outside the condensate, and those momentum states
+are your fourth state.
+So actually, by discussing how much light scattering happens
+in this transfer, I will pretty much
+talk indirectly about how much population
+is going into a fourth state.
+So that's what you want to understand now,
+how true is the magic of the dark state transfer where
+we can go from one state to the next
+without ever going through the excited state.
+Yes?
+So are the two laser frequencies the same, or [INAUDIBLE]?
+Yes.
+I actually assumed that-- I'll come to that in a second--
+that the two states are degenerate.
+And for all this dark state business,
+we have to fulfill the [? Riemann ?] resonance,
+so if the two states are degenerate,
+then the two laser beams.
+So then what's the meaning of increasing
+the level [INAUDIBLE].
+OK.
+One possibility is that this is an M equals 0 state,
+this is an M equals minus 1 state, this is M equals plus 1,
+and this is sigma plus, and this is sigma minus [? radiation. ?]
+So yes, this was actually very important
+for the whole discussion of three-level coherence,
+that this level can only talk to the green laser,
+this level can only talk to the orange laser,
+and we've two ways to accomplish it.
+One is by frequency difference.
+But if you don't have a frequency difference,
+we need polarization [INAUDIBLE].
+
+Yes.
+[INAUDIBLE] question [INAUDIBLE] if I [? have all ?] [INAUDIBLE]
+and I turn on the green laser, and I optically pump everything
+[? to that. ?] And so in this particular case,
+is there an advantage of doing [INAUDIBLE] optical pumping
+[INAUDIBLE]?
+Or is it--
+
+Yes, there is.
+And we'll talk about that.
+There is a difference between transferring population or only
+transferring an amplitude.
+
+So it depends what you want.
+If all you want is to get the atoms from g to f
+and you don't care how they are heated up or so, that's OK.
+But the STIRAP process is a stimulated process.
+So you have momentum k, and here you have the momentum k2.
+So you take the atoms from an initial state
+and put them in a very well-defined momentum state.
+So [? BEZ ?] in one state after STIRAP transfer
+is in another state maybe if you have
+the lasers in a counter-propagating way
+back to 0 momentum.
+Whereas if you do optical pumping, which
+involves spontaneous emission, then you always
+have dissipation.
+You create entropy.
+And because spontaneous emission goes into many modes,
+you have many different recoils.
+And eventually, your final state is no longer a single state,
+it has many different momentum states involved.
+So that's why we've been talking here
+about the coherent transfer, sort
+of assuming that optical pumping with spontaneous emission
+and the many modes involved is not what
+you want because of heating.
+
+OK.

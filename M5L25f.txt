@@ -1,0 +1,115 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 105 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Before I start with the angular momentum formalism,
+I want to emphasize that what are the ingredients here?
+Well, we're talking about coherence,
+coherent radiation, coherence between atoms,
+and we talk about radiation.
+And the important part here is the following--
+that when we talk about radiation,
+we have the situation that all atoms interact
+with the common radiation field.
+In other words, all of the spins, all of the atoms,
+have to emit their photons into the same mode
+of the electromagnetic field.
+And therefore, you may be right in some limit
+that the atoms are independent, but not the photons they emit.
+They go into the same mode.
+And therefore, the emitted photons cannot be treated
+independently.
+
+And that's why the classical picture
+is so powerful for that, because in the classical picture,
+we do a coherent summation of the field amplitudes,
+so we have constructive interference, the superposition
+principle of field amplitudes, built into our equations,
+and deeply engraved in our brains.
+And that's why, when we use classical arguments,
+we automatically account for that the photons sort
+of interfere, that the photons are
+emitted into the same mode of the electromagnetic field.
+And eventually, this leads to the phenomenon
+that we have coherence and enhancement,
+when we look at spontaneous emission for N atoms,
+which are sufficiently localized.
+So let me also discuss what we have assumed here.
+Number one is, we have assumed we
+have the localization of this ember smaller
+than the optical wavelengths.
+The other thing-- and this is really important.
+We're talking here about a collective phenomenon where
+N atoms act together and do something
+in this-- they developed the phenomenon of superradiance,
+it became much, much faster than any individual atom
+could do by itself.
+But nevertheless, we have not assumed,
+or we have actually excluded in our description,
+that there's any direct interaction between the atoms.
+The atoms have no [INAUDIBLE] interaction,
+they're not forming molecules, they're not
+part of a solid with sort of shared electrons.
+So the atoms are, in that sense, non- interacting,
+and therefore in a way, as long as they are just atoms,
+independent.
+
+Finally-- and I want you to think about it--
+you can think about it already for two atoms,
+before we generalize it to N atoms.
+Think about it-- what was really the assumption about the atoms?
+Do the atoms have to be bosons?
+To be in the symmetric state?
+
+Can they be fermions?
+Or can they be even distinguishable particles?
+
+If the two atoms where one would be a sodium atom,
+and one would be a rubidium atom, but let's just
+say we live in a world where sodium and rubidium
+atoms emit exactly the same color of light.
+What we have then [INAUDIBLE] in superradiant state,
+for two atoms-- one of which is sodium, and one of which
+is rubidium.
+
+Yes?
+Isn't the [INAUDIBLE] assumption that the photons have
+to be indistinguishable, so in respect
+to, say, the [INAUDIBLE]
+
+Yes.
+It is really-- and that confuses many people.
+It is the indistinguishability of the photons
+they have emitted.
+It is the common mode where the photons are emitted.
+The atoms can be distinguished.
+I mean also, we've made the assumption
+that the atoms are localized to within an area, which
+is much smaller than lambda.
+But you could imagine you have a solid state matrix,
+and you have one atom here, one atom there.
+And you can go with a microscope and distinguish them.
+So therefore, the moment you can distinguish them
+because they're pinned down in a lattice,
+or if you don't like a lattice, take two microscopic ion traps
+a few nanometers apart, and you tightly hold onto two ions.
+It doesn't matter whether they're bosons or fermions,
+it only matters whether you have bosons or fermions when
+the atomic ray functions overlap and you have to [INAUDIBLE] it.
+As long as have two atoms which are spatially separated,
+it doesn't matter whether they're bosons or fermions.
+And that also means they can be completely different atoms.
+You can already call it boson a, boson b.
+Now you can call it sodium and rubidium,
+and they can have different numbers of nucleus,
+they can have different numbers of neutrons in their nucleus.
+It could be different isotopes of the same atom.
+The whole collective phenomenon comes when they
+emit a photon to the same mode.

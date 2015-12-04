@@ -1,0 +1,122 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L21a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 112 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to feature in this last big chapter of this course
+coherence in all its different manifestations.
+I think this is rather unusual.
+I don't know of any text book or any other course
+where this is done.
+But this is similar in spirit to what we did on line broadening.
+I felt I could create special connections
+by discussing all possible line shifts and line
+broadenings together.
+And now I hope you will also see certain common traits
+if I discuss together all the different manifestations
+of coherence.
+So we start out by talking about coherence in a single atom.
+We can have coherence between two levels.
+Usually I try to stop at the simplest
+possible manifestation.
+But when we talk about coherence,
+I cannot stop at two levels, because there are many new
+qualitative features which come into play when we have three
+levels, like lasing without inversion,
+like electromagnetically induced transparencies for those of you
+who have heard about it.
+On the other hand, I can reassure you
+I don't think there is anything fundamental to be learned
+by going to four, five, and six levels,
+so we will stop at three levels.
+So this is a single atom, but we can also
+have coherence between different atoms.
+And phenomenon we want to discuss
+is superradiance, which is very, very
+much related to the phenomenon of phase matching.
+Everybody who [INAUDIBLE] laser knows about phase matching,
+phase matching condition.
+You have to rotate the crystal or heat the crystal
+to the temperature where the whole crystal, all the atoms
+in the crystal act coherently.
+But it's very related to superradiance.
+There is a third aspect of coherence between atoms which I
+will not discuss this semester.
+And this is the situation of Bose-Einstein condensates
+and microscopic wave functions.
+This is discussed in the context of quantum gases
+in the second part of the course.
+Having these very different manifestations of coherence,
+I want to try now to give you a definition of coherence.
+But it's a little bit difficult, because I
+want to cover with my definition all the cases I know.
+With those examples in mind, we have the phenomenon
+of coherence.
+Coherence exists if there is well-defined phase.
+
+Well, if we have a phase, well-defined phase,
+it's always a phase between quantum mechanical amplitudes.
+So we need two or more amplitudes.
+So coherency exists if there is a well-defined phase
+between two or more amplitudes, but we can only observe it
+if those amplitudes interfere.
+And it can be two amplitudes describing two different atoms,
+or it can be two amplitudes of two
+states within the same atom.
+But I will point out what is really
+relevant is an indistinguishability
+that those two amplitudes are involved
+in two branches of a process which has the same final state.
+And like in Feynman's Doppler state experiment,
+you don't know which intermediate state was taken.
+And that's where coherence manifests itself.
+So that means when we observe an interference, that
+means we observe-- and this is how we read out of coherence--
+one observes a physical quantity, the population
+in certain quantum state, totally electric field
+admitted.
+But this quantity is usually proportional to the square
+of the total amplitude.
+
+And that means we get an interference term.
+So coherence is important.
+Let me provide one additional motivation
+that coherence is an important technique, an important tool
+for measurements.
+
+It's subtle but trivial at the same time.
+Whenever we do spectroscopy, we are actually
+interested in doing a measurement of, you know,
+energy.
+We want to measure energy levels.
+And those energy levels can tell us
+something about magnetic fields, for Zeeman shifts.
+If you're addressing energy levels
+in the gravitational field for atomic [? interferometry, ?]
+the energy levels reflect gravitational fields.
+Or if you're not interested, if you try to eliminate or shield
+the atoms from magnetic fields and we just
+want to get the most precision in a reproducible energy level,
+this is the situation of atomic clocks.
+So pretty much when we use atomic spectroscopy
+for any application, we're interested in the energy
+levels.
+But this is very deeply connected
+to coherence interphase, because the relative phase between two
+states is nothing else than the time integral over the energy
+difference between two levels.
+So the phase evolved between the two levels
+is the difference frequency times time or time
+integrated tt.
+So therefore when we are talking about coherence,
+how can we maintain longer coherence
+between energy levels?
+Or how can we create coherence in three-level systems?
+This is actually intricately related to the fact
+that we can obtain more precise information about the energy

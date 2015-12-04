@@ -1,0 +1,147 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23n.txt
+#
+# Captions for 8.421x module
+#
+# This file has 137 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to discuss it in this simplest possible scheme.
+In the end, this is not the system in which
+it has been accomplished.
+But I think what you realize is I draw you
+up a very simple scheme, I make all assumptions,
+and there is maybe no suitable atom where you can realize it.
+But then I will do what I've done so often in this class--
+I turn around and say, but if you
+go to a [INAUDIBLE] state basis, we can exactly engineer that.
+So in other words, if you need a certain level scheme
+and you don't get it, you can just take another level,
+put it there with the strong laser as a virtual level,
+and you get the level scheme you want.
+And in a dress state description,
+you have sort of exactly the idealized level
+scheme I'm presenting to you.
+But therefore, with that justification,
+let me just try to give you the simple scheme where
+you can understand this absorption
+cancellation by interference.
+Later, in the end, we want to use lambda systems
+with two stable ground states, two hyperfine states.
+That's how all the research is done.
+But now I assume we have a V system.
+So we have two excited states, and we have one ground state.
+And I want to assume that by coupling
+for radiation spontaneous emission, those excited states
+couple to the same continuum.
+
+I want to say that this is an important assumption.
+If you have two states-- hyperfine states-- n
+equals plus 1, n equals minus 1-- which
+emit photons of different circular polarization-- no.
+They are not coupling to the same continuum.
+They would be distinguishable.
+And then certain interference effects will not happen.
+So eventually, the magic of quantum interference
+comes if it is absolutely indistinguishable which excited
+state has emitted the photon.
+So we have to really set up something like this.
+So it must be fundamentally impossible to distinguish
+photons emitted from one state or the other.
+So we know already if we treat the system,
+we couple the atoms to the continuum, that
+means in the end that those states require a certain width.
+And this is the situation we want to discuss.
+So what we have set up now is a situation
+where we have, with these two states, two
+indistinguishable paths to scatter photons.
+So let's say we take the ground state,
+and we shine laser light on it.
+It's a two-photon process.
+A photon goes in, a photon comes out.
+And we can now go through excited state one,
+through excited state out.
+Then a photon comes out.
+And eventually, we have now coupled
+through this two-photon process, the ground state
+to continuum of modes.
+But those two processes to go through e1 and e2
+are indistinguishable.
+So we give you immediately an expression
+where, in perturbation theory, we're not adding intensities.
+We're adding the two amplitudes.
+It's like a double-split experiment.
+Or in other words, the situation I want to discuss now
+is the following.
+We have all of the population in the ground state.
+We have the two excited states.
+And our laser is still in between.
+And now we can scatter light.
+We've talked about Rayleigh scattering and such.
+And you know that, for an infinitely heavy atom,
+the emitted radiation is the delta function at the incident
+light.
+And you do not know-- you can never
+know-- which excited state was involved in the scattering.
+So we assume that we have excited state e1.
+this is e2.
+And our laser beam is detuned.
+We have a detuning of delta 1 and delta 2, respectively.
+So now we have to add amplitudes when we do perturbation theory.
+So in second order perturbation theory,
+for the light scattering, if you now
+want to derive Fermi's Golden Rule--
+as we have done a number of times
+here-- you remember the critical part--
+I'm not writing down the whole expression--
+the critical part is a product of two matrix elements,
+or two photon matrix elements, which takes us from the ground
+state through the light atom coupling to the excited state,
+and then from the excited state via the coupling eventually
+back to the ground state, which is now a continuum of modes.
+And we sum over all possible modes.
+And what we have here is the detuning denominator.
+Well, if you want to do a little bit better,
+I'm just mentioning it here for completeness,
+we want to add the imaginary part.
+
+That's more placeholder for a comment I want to make later.
+It's not really essential.
+But the new thing I want to discuss now
+is that since we have two excited states and not one,
+we have to sum over the two excited states,
+and it's a coherent sum.
+OK if my laser detuning is tuned in between,
+then delta 1 is positive, and delta 2 is negative.
+So therefore, we do a sum here with two opposite signs.
+And if I can neglect the gamma, assuming the gamma
+is small or much smaller than the detuning,
+then I'm just adding up two numbers with opposite sign.
+And depending now on the matrix element, if they're identical,
+I get cancellation if I'm detuning half in between.
+But even if the matrix elements are different,
+I will always find a detuning where this sum is 0.
+So to the extent that I can neglect the imaginary part--
+the gamma in the denominator-- I have now this situation
+that this is 0.
+It vanishes for a certain laser frequency omega
+0, tuned between the levels e1 and e2.
+And what I've assumed here is that the detunings are larger
+than the decay [INAUDIBLE].
+And therefore, I can neglect.
+Any questions about that?
+
+So OK, very trivially-- two excited states
+which are indistinguishable-- it's
+a modern version of Feynman's double-slit experiment.
+We add up the amplitudes.
+And by necessity, we get 0.
+But that sounds so trivial.
+But it took a Steve Harris-- some ingenious person--
+to invent it, to realize that when we have light at omega 0,
+it would be absorbed by e1.
+It would be absorbed by e2.
+But it is not absorbed in the situation

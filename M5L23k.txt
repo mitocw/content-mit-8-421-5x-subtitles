@@ -1,0 +1,161 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23k.txt
+#
+# Captions for 8.421x module
+#
+# This file has 151 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So we want to go from state g to state
+f with two-photon Raman transition.
+Let's assume we have a detuning delta.
+So now do you have any expectations whether this-- we
+can do a pi pulse.
+Two-photon Raman transition has a two-photon Rabi frequency.
+I'll remind you in a second of it.
+And if we do a pi pulse in that, we
+have half a Rabi oscillation, which takes us from state g
+to f, and we 100% transfer.
+So do you have an expectation if this Raman
+process-- how will it turn out to be in our figure of merit,
+how many photons are emitted from the excited
+state during the transfer?
+Will it be the same at STIRAP?
+Will it be the same as population transfer?
+Will it be something else?
+[INAUDIBLE]
+
+It will scale with a detuning, but-- OK,
+what I will do is actually I will in a moment say OK,
+we have a certain laser-- what I'm going to say?
+We have to compare apples with apples.
+And here we have the detuning as a parameter.
+And what I want to replace is what
+will replace the detuning by the time it
+takes to do the pi pulse.
+So the detuning is determined by the condition
+that we want to do the transfer in the same time as the STIRAP.
+So this will eliminate the detuning.
+So we want to use the same resources.
+Our resources are time and laser power.
+And we want to use our resources of time and laser power
+in the same way for the two-photon transition.
+So the question is, what happens to-- what
+is the answer to the question how much
+excited state is involved in the two-photon Raman process as
+compared to STIRAP.
+Do you have an expectation?
+
+Who of you is doing STIRAP in the laboratory?
+A few people, yeah?
+Actually I know that 99-- or let me--
+my observation is that 99% of the people
+see STIRAP is special because it's a dark state transfer.
+And when I started to confront famous people in the field
+and say the two-photon Raman process does exactly the same,
+they were completely surprised.
+
+Anyway, I want to show you in one equation
+that the two-photon Raman process has
+exactly the same integrated population in the excited
+state.
+And therefore, it is as good-- the two-photon Raman process
+performs exactly as well as the so-called dark state
+transfer, where you never go through the excited state.
+And this for me completely demystifies it,
+because the two-photon Raman process
+has in common with the STIRAP that everything is coherent.
+And if everything is coherent, it
+means we are not building our population,
+we are only building up amplitude in the excited state.
+So let me just show you in one equation
+that indeed it works out in that way.
+It's also a nice way to quickly recapitulate
+what we learned in the previous chapter
+about two-photon transitions.
+So the two-photon Rabi frequency is nothing else
+than the product of the two Rabi frequencies divided
+by the detuning.
+And of course, if you see larger and larger detuning,
+as you said, everything will slow down.
+But we know that the transfer time
+will be the inverse of the two-photon Rabi frequency.
+And this is delta over omega squared.
+So therefore, we will eliminate delta from our equations
+by replacing it by the time it will
+take to perform a pi pulse between the two ground states.
+OK, so what is the probability to be in the excited state?
+Well, we've done the theory of the [INAUDIBLE] stock effect.
+We have beaten perturbation theory to death.
+You know the first order admixture
+is omega Rabi over delta, and the probability
+is omega Rabi squared over delta squared.
+So therefore, the probability to spontaneously emit a photon
+is omega Rabi squared over delta squared times gamma times t
+transfer.
+And this is nothing else than gamma divided by omega Rabi
+squared times t transfer.
+So if you use a Raman pulse to transfer the population
+coherently, the integrated population
+of the excited state, which is a measure for heating
+and a measure for winding up in the wrong state
+through emission through a false state
+is inversely proportional to your laser power,
+and inversely proportional to the time
+you can afford to do the transfer.
+Exactly the same as for STIRAP.
+And the limit to the transfer time in both cases
+is set by the coherence time.
+
+Try to tell people who do STIRAP that a two-photon Raman
+pulse will do exactly the same as STIRAP,
+at least in populating the excited state.
+They will be surprised.
+Because here you explicitly go through the excited state.
+We don't have a counter-intuitive sequence.
+We switch on both lasers simultaneously.
+But I think this for me illustrates, or completely
+demystifies, what people have said about the dark state
+transfer in the STIRAP process.
+
+Any question?
+Cody.
+[INAUDIBLE]
+What's the advantage?
+Why are you using [INAUDIBLE] sweeps
+when you go from one hyperfine state to the next,
+and why don't you use a pi pulse with your rf generator?
+Because it's more robust.
+[INAUDIBLE]
+
+As you said--
+No.
+What if you do STIRAP [INAUDIBLE]
+But similar if you detune-- if you detune your--
+the condition is the same.
+If you have your two Raman lasers and you detune them,
+you no longer have resonant Rabi oscillations,
+you have off-resonant Rabi oscillations.
+And you will find, if you want to do the transfer in half
+a period, you have to make sure that you
+don't get one cycle of the beat node
+or one cycle of the detuning in your transfer time.
+So the condition for the frequency stability
+for the two-photon Raman and the STIRAP I think
+are pretty exactly identical.
+So I think it's pretty much the robustness,
+and you have to decide what you need and what you want.
+For instance, if you have a laser beam and the laser beam
+has an inhomogeneous profile, you cannot meet the pi pulse
+condition for the atoms in the middle and at the edge
+of your laser beam.
+But in STIRAP, you just provide plenty of extra power,
+and then everything is robust against the laser beam profile.
+So there are clearly advantages like that.
+But all what I point out is the advantage
+is not the population of the excited state.
+It's the same.
+Questions?

@@ -1,0 +1,83 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 73 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me just point out one important aspect
+about coherence in the two-level system.
+And this is related to, well, something
+very mundane, the precession of spin.
+And where it's a two-level system,
+it's spin-1/2 in the magnetic field.
+In other words, I just want to quickly remind you in a few
+minutes that, for any two-level system,
+we can always map it on spin-1/2.
+I mean, I was really emphasizing this message
+throughout the whole course.
+But for spin-1/2, if you think of spin up and down
+in a magnetic field, there is a very clear visualization
+of the coherence.
+If you have a coherence of procession of spin up and down,
+the face of the superposition decides whether the spin
+points in x or y.
+So the precession of a spin in the transverse xy plane
+is actually the manifestation of coherence.
+And it's not just the [? spatial ?] coherence
+of spin-1/2 in a magnetic field.
+Because all two-level systems are isomorphic to that,
+you can always use it as an intuitive visualization
+of what coherences are.
+So what I just want to point you out
+is the relation to the quantum mechanical or classic
+precession of spin in a magnetic field.
+That it is simply an effect of coherence,
+coherence within one atom, coherence
+between two levels in an atom.
+So if spin points in the x direction,
+it is a coherent superposition of plus e and minus e,
+spin up and spin down.
+But this is a situation at time t equals zero.
+If you let time evolve, spin up and spin down evolve
+with the Larmor frequency, actually a factor of 1/2,
+but with opposite phases.
+Because one has plus the Larmor, h bar omega Larmor over 2.
+The other is minus h bar omega Larmor over 2 as energy.
+Or in other words, if you look at the relative phase,
+it's a beat note with the same [? unsplitting ?]
+between spin up and spin down.
+But that means, now, due to this coherent time
+evolution of the two amplitudes, that the spin
+precesses in the xy plane.
+
+The statistical operator for the spin-1/2,
+we have 50-50 population in spin up and spin down.
+But now the face here precesses as e to the minus
+and e to the plus i omega l t.
+Which means, if you use the statistical operator
+and find the expectation value for the x spin,
+so it means we take the statistical operator describing
+actually the pure state of a two-level system.
+We multiply with the power matrix in x.
+And this is the prescription to get the expectation
+value for sigma x.
+And we find it's cosine omega l t.
+So the spin is precessing the x component
+change is cosinusoidal. e.
+That would mean the y component change is sinusoidal e.
+Let me just contrast it to the case of no coherence.
+And this would mean off-diagonal matrix elements are zero.
+Then if you have a statistical operator where
+the off-diagonal matrix element are zero, in one minute
+you can show that then any expectation
+value for the x or y component of the spin vanishes.
+So in that case, if you have a statistical mixture
+between spin up and down, of course,
+there is no face determined.
+And it is the face of the superposition state
+which tells you where between zero

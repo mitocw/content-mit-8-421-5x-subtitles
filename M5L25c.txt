@@ -1,0 +1,86 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 76 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So now we pretty much know what we have to do.
+We want to use the symmetry of the [INAUDIBLE]--
+we consider ground and excited state of each atom as spin 1/2,
+but now we want to look at the total spin,
+the total pseudo-angular momentum of the two atoms,
+and later we extend it to n atoms.
+So we want to use now the power of the angular momentum
+description.
+And that goes like follows.
+We have four states of two atoms.
+And this is gg, ge, eg, and ee.
+And if I denote with ground states spin down,
+excited states spin up, I'm talking about two
+spin 1/2 states.
+And two spin 1/2 states can couple to S equals 1,
+total S equals 1, and total spin S equals 0.
+And that's what I've done here.
+I've arranged the states ee, the symmetric superradiant state,
+the ground state, and the subradiant state.
+
+I've arranged an energy level diagram.
+Here we have zero excitation energy,
+here we have one excitation energy,
+and here we have two excitation energies of the atom.
+But I've also labeled now the spin labels
+for the combined system.
+Those symmetrized states correspond to a spin equals 1.
+It's a triplet letter with three different magnetic quantum
+numbers.
+M equals plus 1 means everything is highly excited.
+M equals minus 1 means we are in the total ground state.
+And here we have the singlet state,
+which is the anti-symmetric state,
+or the subrradiant state.
+And our interaction Hamiltonian is the total spin plus minus.
+It is the raising and the lowering operator.
+And you know that the raising and lowering
+operator for this speed is only making transitions
+within a manifold of total S. It just changes the n quantum
+number by plus minus 1.
+So the Hamiltonian cannot do anything to the singlet state
+because there is no other singlet state to couple.
+But within the triplet manifold, the sigma plus sigma
+minus operator is creating transitions
+between the different n states.
+And the coupling constant, which for an individual atom
+was little g, is now factor of square root 2 enhanced.
+And we will see in a few minutes that for n atoms,
+it's square root n enhanced.
+And if n is big, that's where the word super in superradiance
+comes home.
+Actually, let me just quickly add the diagram
+for the single atom.
+The single atom has only an excited state, a ground state.
+It corresponds to S equals 1/2.
+And we have magnetic quantum numbers of plus 1/2
+and minus 1/2.
+And the coupling due to the light-atom interaction
+goes with a coupling constant g.
+So the key message we have learned here
+is that we should, when we have several atoms
+within an optical wavelength, we should
+use for their description symmetrized
+and anti-symmetrized states.
+Or when we generalize to more than two atoms,
+we should use-- we should just add the total angular
+momenta by treating each atom as a pseudo-spin 1/2.
+And it is this angular classification
+which tells us how the radiation proceeds
+because the coupling to the electromagnetic field
+is only involving the lowering and raising operators
+for the total spin.
+And this only acts on a manifold where the total spin
+S is conserved.
+And what we get is transitions with delta n plus minus 1.

@@ -1,0 +1,72 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22v.txt
+#
+# Captions for 8.421x module
+#
+# This file has 62 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+We describe this situation with a dipole Hamiltonian.
+
+And we make the rotating wave approximation.
+So the Hamiltonian has three lines, three parts.
+One is we describe each of the laser fields as a single mode.
+I call the frequency now omega a and omega c,
+just to connect it with the operator c dagger c.
+For the atom, we use the matrix-- sort of two
+by two matrices.
+So this is the matrix if the atom is in the ground state.
+Coherences are described by that.
+And of course, without any interaction with a laser field,
+the atomic Hamiltonian is-- we have
+atoms are in the ground state.
+The state f has 0 energy.
+We use that as the origin of the energy.
+The state g has an eigenenergy of omega gf.
+And the excited state e has an eigenenergy of omega ef.
+But now the important part is that we
+want to have the coupling.
+And actually, I realized I was not saying it correctly.
+Omega 1 and omega 2, these are the Rabi frequencies of the two
+fields, and the two fields are at frequency omega a and omega
+c.
+So now we have the coupling between the excited
+state and the ground state via photons a and a dagger.
+And the coupling happens at the Rabi frequency omega 1.
+And then we have the second laser field, which
+is at Rabi frequency omega 2.
+
+And we have the atomic raising and lowering operator,
+and we have the photons c and c dagger.
+OK.
+That's a nice Hamiltonian.
+It has three lines.
+So the important part here, which we have explicitly
+assumed, is that each of the lasers-- a and a dagger, c
+and c dagger-- are only driving one transition.
+So one field is responsible for connecting the state f
+to the excited state, the other field
+is responsible for connecting the state g to the excited
+state.
+In practice, this can be accomplished
+by you have maybe polarization.
+This is a plus 1 state, this is a minus 1 state,
+and the excited state is m equals 0.
+Then one laser beam is sigma plus,
+the other one is sigma minus, so it can be polarized,
+and the two laser beams can only talk
+to one of the current states.
+Or, you can have a situation that you have a huge energy
+separation-- let's say you have a large hyperfine splitting--
+and the two lasers are separated by frequency.
+
+So I think I've set the stage, but I think I should stop here.
+And on Wednesday, I'll show you in the first few minutes
+of the class that this Hamiltonian has
+a simple solution, which is a dark state, which
+is a superposition state of g and f.
+Any questions?

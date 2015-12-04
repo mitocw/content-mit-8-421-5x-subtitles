@@ -1,0 +1,165 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24n.txt
+#
+# Captions for 8.421x module
+#
+# This file has 155 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me just say a few words about the fact
+that we have a large derivative of the index of refraction.
+This, of course, is used for generating
+what is called slow light.
+The group velocity of light is the speed to light,
+but then it has a denominator which
+is the derivative of the index of refraction
+with respect to frequency.
+And towards the end of the last century,
+there were predictions that electromagnetically-induced
+transparency would give you very sharp features which can
+be used for very slow night.
+And what eventually triggered major developments in the field
+was this landmark paper by Lene Hau where
+she used the Bose-Einstein condensate to eliminate
+all kinds of Doppler [INAUDIBLE].
+There are other tricks how you can eliminate it,
+but this was the most powerful way,
+to just take a Bose-Einstein condensate where
+atoms have no thermal velocity.
+And in this research, she was able to show
+that light propagated at the speed of a bicycle.
+So it was a dramatic reduction of the speed of light,
+and this showed the true potential of EIT.
+There have been other demonstrations
+before where light has been slowed by a factor of 100
+or a few hundred, but eventually combining
+that with a Dopplerless feature, because the atoms don't
+move, in the BEC it created a dramatic effect.
+So we have now two ways how we can get a large derivative,
+d and d omega.
+I've discussed here the general case,
+that we have a narrow feature, a broad feature, because we
+have the coupling light detuned form the excited state.
+But let me just point out that even if you have the coupling
+light on resonance, you can actually get an even--
+it depends what you really want, but you
+can get an even stronger feature in the index of refraction
+versus frequency.
+This is now the situation where we have the strong absorption
+feature.
+But then we have the EIT window.
+So we have this superposition of a positive Lorentzian
+and a negative Lorentzian.
+And if I now run it through my [INAUDIBLE] calculator
+and I take the dispersive shape, I
+can sort of do it for the broad feature in this way,
+and for the narrow feature in this way.
+And now you have to add up the two.
+And what you realize is, at this point,
+you have a huge d and d omega.
+So what I'm plotting here is on the left, the absorption
+of the Lorentzian, and you can regard this sharp nudge
+as a second Lorentzian.
+So you have the positive Lorentzian, negative
+Lorentzian, and then you take the dispersive feature
+and you add them up with the correct sign.
+So whether you are-- you're just realizing now
+for quite general situation whether you have
+a single photon detuning, which I discussed before,
+or whether you are on the single photon resonance,
+you can have extremely sharp features.
+
+So now you can take it to the next level.
+You have a light pulse which enters the medium,
+and now the light pulse slowly moves through the medium.
+But while the light pulse moves through the medium,
+you reduce the strengths of the coupling laser.
+What happens?
+
+So you do now an adiabatic change of your system.
+You do an adiabatic change of the control field, omega 2,
+while the probe pulse is in the medium.
+Well, that means that under idealized conditions--
+assumptions which we have discussed,
+this feature gets narrower and narrower and narrower.
+If omega 2 goes to 0, the control field,
+the strengths of the control field,
+this feature becomes infinitesimally narrow.
+And therefore, this feature becomes infinitely sharp.
+And that means that the group velocity goes to 0.
+
+And this is now-- well, in the popular press it's called
+stopped light or frozen light because the light has
+come to a standstill.
+Well, what really happens is the following.
+We have our coupling laser, omega 2,
+and we have our probe laser, omega 1.
+When we do what I just said is that omega 2 goes through 0,
+then the dark state-- originally for very strong omega 2,
+remember the dark state for very strong omega 2,
+the dark state was g.
+But now if we let omega 2 go to 0,
+the dark state will become f.
+
+And that means that, in a way, every photon in the probe pulse
+has now pumped an atom from g through to photon [INAUDIBLE]
+process into f.
+So therefore, what it means to stop light
+or to freeze light means simply that the photons of the laser
+have turned into an atomic excitation,
+an atomic excitation where the excitation is now the state f.
+In other words, you've written the photon has now put the atom
+into different hyperfine state.
+
+So if this is done adiabatically--
+and I can't do full justice in this course,
+but this means that the light is coherently
+converted into the atomic-- well, when I say coherently
+and into population, I mean all the quantum phases, everything
+which was in the quantum nature of the light,
+has now been converted into-- has
+been written into the state f.
+And this is often called, because g and f are
+hyperfine states, this means that you have coherently
+converted the photon or the electromagnetic wave
+in the probe beam into a spin wave, or a magnon.
+
+Anyway, I just want to show you the analogy,
+the fact that you can put the quantum information of light
+into an atomic state and back and forth.
+We've discussed that.
+When we had the situation of cavity QED,
+we prepared a superposition of ground and excited state.
+And exactly the same quantum state which we had in the atom
+we later found in the cavity as a superposition of the 0
+photon and the 1 photon state.
+So from those general concepts, it should be clear to you
+that it is possible to coherently
+transform a quantum state from light to atoms
+and back to light.
+And here you see a different realization.
+We have a quantum state of the photon in the probe laser.
+And by switching-- and we can now
+describe the excitations in the system
+in a sort of parametrized way.
+And what it means is, for the strong probe laser,
+for the strong coupling laser, the excitation in the system
+travels as a photon in the field 1.
+But when you reduce the coupling in the coupling laser,
+the excitation becomes less and less photon-like.
+It becomes more and more magnon-like, spin wave-like.
+And the moment you reduce the power in the coupling laser
+to 0, what used to be an excitation
+in the electromagnetic field has now been turned adiabatically
+into a spin excitation, into-- coherence has
+been written into the hyperfine states of your atoms, g and f.
+All of this is done coherently, and therefore reversibly.
+You can read out the information by simply
+time-reversing the process.
+You ramp up again the coupling laser,
+and that adiabatically turns the spin excitation back
+into an excitation of the electromagnetic field.
+Any questions?

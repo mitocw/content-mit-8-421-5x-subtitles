@@ -1,0 +1,60 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22s.txt
+#
+# Captions for 8.421x module
+#
+# This file has 50 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+Let me connect special effects in a three-level system
+to something which is very basic.
+And you've heard about it.
+And this is optical pumping.
+So if you set up a system which has a ground-- two ground
+states, g and f, you may just think
+about two hyperfine states in your favorite atom.
+And then they are only coupled through an excited state.
+You can now drive the system with laser fields
+omega 1 and omega 2.
+And we also use that example of optical pumping
+to introduce some notation which I
+will need to describe the system with a few equations.
+So we will use energy level diagrams.
+And the energy is referred to the lowest ground state,
+so here we have an energy splitting which is omega gf.
+And the excited state has a splitting of [? eg ?].
+We will call the photons in one laser
+the photons created and annihilated
+with the operator [INAUDIBLE].
+And for the photons for the other laser beam, we use c or c
+[? dega. ?]
+Now, there is a very simple solution
+for this situation, a very simple equilibrium situation
+if you have only one laser beam.
+If you have only one laser beam, omega 1 or omega 2,
+well, it's clear what happens is if you have only one laser
+beam-- let's say omega 1-- it doesn't
+talk at all to the atoms in the state f.
+They are left alone.
+But the atoms in this state g are
+excited to the excited state.
+And then there may be a certain branching ratio
+for fluorescence.
+Spontaneous emission, but let's rather
+call it fluorescence to photon scattering.
+So there may be a branching ratio to go back to that state,
+or to go to the state f.
+If the latter happens, the atom doesn't interact
+with the laser light anymore.
+If it goes back to the original state,
+the atom will try again and again until, after a while,
+all the atoms have optically pumped into the state f.
+And the same would happen if you have a laser omega 2.
+Then you would pump all the atoms into the state g.
+So if you have only one laser beam omega 1 and omega 2, then
+an equilibrium, the equilibrium population
+is 100% of the atoms in state f or g respectively.
+And this is nothing else than the phenomenon
+of optical pumping.

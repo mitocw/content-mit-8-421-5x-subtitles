@@ -1,0 +1,123 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22o.txt
+#
+# Captions for 8.421x module
+#
+# This file has 113 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+Let us assume we have the situation we discussed earlier.
+We have a quantum beat where we have a beat frequency omega 0.
+Now just think about the [? searchlight, ?] the atoms
+which oscillate with [? a lot more ?] frequency,
+and you have some cosine omega [? a lot more ?] t vector
+in the intensity of the light you observe.
+But now, because the atom in the excited state is decaying,
+everything will decay with the natural line widths.
+And this is sort of what we observe.
+And the question is if you observe that in real time, can
+we then retrieve spectral information from it which
+is more accurate than gamma.
+So all I want to do is I want to discuss the Fourier transform
+of this function S of t.
+Let me use dimensionless variables.
+We measure frequencies in unit of gamma.
+We use a Lorentzian, which is just 1 plus x squared.
+And-- OK.
+We just said we want to start the measurement at time t0.
+So the question is, if you start later and later and later,
+do we get higher accuracy because we're
+talking to the survivors?
+So let's perform the Fourier transform.
+And let's use complex notation, e to the i omega t.
+And I will measure times in units of the inverse line
+widths.
+We perform the Fourier transform.
+And by doing e to the i omega t, I actually
+perform the Fourier transform for the cosine and for the sine
+by using the real part and the imaginary part
+of the complex number.
+So we will actually be able to look
+at the real and the imaginary part.
+And the Fourier transform has a real and imaginary part.
+So let me call the real part F of x, and the imaginary part
+G of x.
+In both cases, will we find, because of the-- I mean,
+you can do the math.
+It's a straightforward integral.
+In both cases, will we find that, if you
+do our measurement, well, the longer we wait,
+the more signal we lose.
+I mean, this is common to all delayed measurements.
+You're really now talking to an exponentially smaller
+and smaller signal.
+Also, because of the exponential decay,
+we get an envelope which is a Lorentzian.
+But then-- and this is the interesting part--
+we have cosine xt minus [? x ?] sine xt.
+So now we have [? factors ?] which
+depend on capital T. And T is larger the longer we wait.
+And it is actually those parts with the sine and cosine which
+determine whether we can get resolution
+below the natural line widths.
+OK.
+What is important is-- and this should
+be sort of an eye-opener for you--
+if you simply measure intensity, if you look at the power
+spectrum, you take the real part plus the imaginary part
+and just look at the absolute value, then because of cosine
+squared plus sine squared equals 1,
+all the cosine and sine parts, the last part of the expression
+above, cancels out.
+And you find that you have an exponential loss of signal.
+But your spectral distribution is always a Lorentzian.
+So you always have a Lorentzian line shape completely
+independent of the delay time capital T.
+And this is what some of you maybe thought.
+If I start the measurement later and all
+I can do is look at the power of the immediate light,
+I have no advantage.
+I cannot go [? sub-natural. ?]
+However, if you look at the function
+F of x for large values of x, you find oscillations.
+So if you look at the sine or cosine Fourier
+transform, the real or imaginary part separately,
+you find oscillations.
+And those oscillations, similar to Ramsey fringes,
+have a central peak.
+The central peak is narrow.
+And the widths is now given by not the inverse
+of the natural lifetime, but the inverse of the delay time
+you wait for your measurement.
+So the fact is now we had a signal, S of t,
+which we assumed was a quantum beat with a well-defined phase.
+And then it was exponentially decaying.
+If we would now perform a Fourier transform where
+we do a Fourier transform with cosine omega t plus phi,
+we can get a narrow signal.
+But if you have no idea of what phi is,
+or if in repetitions of the experiment phi would be random,
+then-- I mean, this is sort of what the math does,
+is if phi is random, it is the same
+as if you simply measure the power spectrum.
+Because we cannot distinguish between the cosine and sine
+Fourier transform.
+
+So if the phase phi is random, that
+means you only measure what was F plus IG before.
+In other words, the situation is actually
+in the end very simple.
+If you have quantum beats which start
+with a well-defined phase, and you know the phase was,
+let's say, 0 here, and now you have the decaying function,
+and now you look at the quantum beat over there, well,
+in a way you had sort of n beats between T equals
+0 and your measurement.
+And then your resolution goes with 1 over n.
+But you have to know what the phase was at T equals 0.
+And then, by looking at delayed detection,
+you can do [? sub-- ?] spectroscopy

@@ -1,0 +1,127 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 117 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So when we shine on the light, atoms
+may be in some initial state.
+They will sort of scatter light.
+But then after some [? transient, ?]
+the state which is stable against further illumination
+is the dark state.
+That's like optical pumping.
+So we'll optically pump into the following state, which
+I'll write down for you and then we can inspect that indeed it
+is a dark state.
+It is a coherent superposition of the two ground states,
+and the coefficient involves the Rabi frequency,
+omega 2 of laser two, omega 1 of laser one.
+And we just normalize it by taking the [INAUDIBLE] some
+of the two Rabi frequencies.
+This state is indeed a dark state.
+So let me show that to you by looking at what happens when
+we expose it to this operator.
+This operator V in the Hamiltonian
+is the operator which couples the atoms
+to light, which couples the atom to the excited state.
+And this causes spontaneous emission.
+What I want to show you that it's a dark state since,
+if you take this operator, apply it to the dark state, and ask
+is there any possibility how you can
+excite to the excited state.
+And the answer is it will be 0.
+The dark state has a component on f,
+and it has one component in g.
+Sometimes it's easier to say it in words
+than to write down a long equation.
+The light-atom interaction couples
+the component of the ground state to the excited
+state with a Rabi frequency omega 1, and for the state
+f with omega 2.
+However, in the construction of the dark state,
+I've made sure that the amplitude of the component g
+is omega 2.
+So therefore, when we apply this operator,
+we have omega 1 from the operator and omega 2 here.
+And here we can also get omega 1 and omega 2,
+and this minus sign means the two effects cancel.
+So therefore, I have shown you that even
+in its full frame with [? second ?] quantization
+photon operators and all this, this coupling is identically 0.
+And therefore, we have a dark state.
+So this phenomenon of having a dark state
+and populating the dark state by light scattering,
+you have spontaneous emission into the dark state
+until the scattering light [INAUDIBLE] stops.
+And no matter what the initial state of the atom were,
+the dark state is now 100% populated.
+This is called coherent population trapping.
+
+Let me mention that this coherent population
+trapping can be some good thing if you want to pump atoms
+into a certain state and then they stop scattering light,
+they're not heated up anymore.
+But sometimes, you want the atoms to scatter light.
+For instance, in current laser cooling experiments
+with molecules, there is a problem
+that the multiplicity of the angular momentum states which
+are suitable for laser cooling in molecules
+is such that you always have a dark state.
+So if you irradiate the atoms with laser light,
+they will not be on a cycling transition.
+The cycling transition will stop.
+So then you have to play additional tricks.
+One is to apply a transverse magnetic field,
+that the axis of the laser and the quantization axis given
+by the magnetic field are in two different directions,
+and then once the atom is pumped into a dark state,
+it really actually [INAUDIBLE] out of the dark state.
+Or, magneto-optical traps for molecules
+use a magnetic field gradient which is rapidly switched.
+Because when you are in a dark state for one
+value of the magnetic field, you just change the sign quickly
+and then the atoms are no longer in the dark state
+for the new situation you have created.
+So in other words, to have this wonderful dark state, which
+is a major intellectual accomplishment
+and eventually was used-- was exploited in many experiments,
+for a number of experiments it's a real nuisance.
+And you have to find ways around it
+to make sure that the atoms are not stopping scattering light,
+and don't stop scattering light.
+I gave you the simple example that the dark state
+exists for resonant excitation.
+But as you can immediately show, the dark state also exists
+for [? the ?] [? tuning ?] of resonance.
+
+The only thing which is important, as long
+as the two lasers fulfil the two photon resonance condition.
+
+So you want that the difference between the two lasers
+is the energy difference between the two states.
+Also remember if we had two lasers which
+are very different in power-- so let's say one Rabi frequency is
+much smaller than the other one-- then
+the dark state, the superposition
+which is the dark state, the dark state
+is now predominantly which one?
+The state with the stronger coupling,
+or with the weaker coupling?
+
+Well, it's the state with the weaker coupling.
+The dark state has always a larger amplitude
+in the state for which the coupling is weaker.
+And that, of course, immediately makes a connection
+to optical pumping.
+For instance, if omega 1 of the Rabi frequency is 0,
+then the dark state is what we started out
+with a trivial example as state g.
+So you see that actually what I taught you
+about coherent population trapping
+is nothing else than an extension of the concept

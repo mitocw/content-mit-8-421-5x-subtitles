@@ -1,0 +1,133 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 123 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So how well can we measure the phase phi?
+You should first assume the phase phi is perfectly
+determined with extremely high accuracy
+if you use a laser beam which has
+a macroscopic electric field.
+The phase phi is a classical variable,
+and can be determined with arbitrary precision.
+And therefore, the phase phi, which we have imprinted first
+into the atomic wave function and then in the photon field,
+is an exact number.
+It comes from the laser beam.
+Well, what I'm showing here is phase space plots
+for the photon field.
+I know we talk about photons two-dimensional phase space
+distribution mainly in 8.422, but I
+think the pictures speak for themselves.
+So what you do here is you plot-- well, a lot of you
+have seen the harmonic oscillator, and harmonic
+oscillator-- if you start to prepare the system here,
+this is position, this is momentum,
+the system evolves in a circle-- a lot of you
+have seen if we regard photon states as states of a harmonic
+oscillator, which they are, that you have Fock states which
+are just circles, or the vacuum state,
+or the vacuum state is just a tiny circle at the center.
+And if you have a coherent state,
+the coherent state is maybe a little blob out there.
+And for the coherent state, you can determine the phase
+because the angle of this little block relative to the origin
+is well-determined.
+I think you all have seen a version of that.
+So anyway, what is done here is I show you this phase space
+plot for the photon field.
+And what happens is if, initially, the excited
+state was 0-- this is sort of just the ground
+state of the harmonic oscillator-- it's a circle.
+If the excited state was occupied
+with unity probability, it's a Fock state with n equals 1.
+And here you see the phase space plot of a Fock state with n
+equals 1.
+And of course, you realize if you've
+exactly one photon or one atom in an excited state,
+there is no phase information left,
+because the phase is actually the relative phase
+in the superposition between ground and excited state.
+If you have an excited state, only
+an excited state with a phase factor,
+you know if a phase factor can simply
+be factored out of the total wave function,
+it's never measurable.
+What is measurable are phases which
+are relative phases between two amplitudes which are populated.
+And of course, not surprisingly, if you now
+vary the excited state fraction of the atom,
+or that's a probability to have a photon in the photon field,
+from 0 to 1, in between we sort of see that
+this phase space distribution, it
+points along the 45-degree axis.
+And we can measure the phase.
+And the most accurate phase measurement
+can be done if the superposition between ground and excited
+state, or it's 50-50, or talking about the photon field,
+we've a 50-50 superposition state
+between no photon and one photon.
+But the phase here is undetermined,
+and the phase here has quite a bit of, well, variance
+because, well, if you've a single photon,
+there's only so much accuracy for the phase.
+I mean, sometimes-- it would require more discussion,
+but sometimes you talk even about an uncertainty relation,
+delta n delta phi equals 1.
+So if you have one photon, you can only
+measure the phase with the precision
+on the order of unity.
+If you have millions of photons, then you
+can do a very accurate phase measurement.
+So what we have is-- and let me just summarize a conclusion--
+the phase phi is best defined in the atom--
+And therefore also in the photon field-- when
+we have an equal superposition of spin up and spin down,
+of ground and excited state.
+And you sort of also get that from the block vector picture.
+If you have a block vector which is pointing like that,
+it doesn't have a phase.
+It's just pointing up.
+If it's pointing down, there is no phase.
+But if it's a 50% superposition state,
+it points in the xy plane, and you have the best definition
+of the relative phase of the amplitude between ground
+and excited state.
+
+So I mentioned this Heisenberg uncertainty relation.
+So the fact is, just looking at these phase space plots,
+you realize the angle at which-- the angle which
+we can determine here for the photon distribution
+will have quite a variance.
+But now I want to discuss with you
+how would we actually go about it,
+how would we measure the phase of the photon field.
+And this requires a homodyne experiment, a beat experiment
+where we interfere the emitted photon with a local oscillator,
+which is the laser beam which was used in first place
+to excite the atom.
+
+And what we will find out, and it's clear that we cannot
+obtain a sharp value of the phase,
+but these fluctuations in the phase do not come from any
+partial trace, do not come from any fluctuations
+in the Hamiltonian.
+
+Just do a trace [INAUDIBLE] when we write down, determine
+the Hamiltonian, the e.d term.
+Yes, depending on the basis set, depending
+how you define spin up, spin down,
+and what phase factors you put into your basis set,
+you may have a phase popping up in the Hamiltonian.
+But this phase is purely definitional.
+The phase I'm talking about is really
+a relative phase between two amplitudes,
+and it is independent of a phase which
+may be your choice by choosing the basis set in which you
+formulate the Hamiltonian.

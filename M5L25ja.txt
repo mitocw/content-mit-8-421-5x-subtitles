@@ -1,0 +1,38 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25ja.txt
+#
+# Captions for 8.421x module
+#
+# This file has 28 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me make just a side remark.
+Maybe some of you remember when we went to cavity QED,
+we had just proudly quantized the electromagnetic field,
+and we discussed the vacuum Rabi splitting.
+And I told you that the vacuum Rabi splitting is if you have--
+if the cavity is not empty but is filled with n atoms,
+because of the matrix element of the [? a ?] [? a dega ?]
+operator, you get an enhancement of the vacuum Rabi splitting
+which is square root n then photon number.
+But then I showed you the important first observation,
+the pioneering research at Caltech
+by Jeff Kimble and Gerhard Rempe.
+And they didn't vary the photon number,
+they varied the atom number.
+And when they had more flux in the atomic beam,
+the Rabi splitting became larger and larger.
+Well, we've just learned that, when
+we have n atoms, that the matrix element for emitting the photon
+is square root n times enhanced.
+So if you put n atoms in a cavity filled with little n
+photons, the vacuum-- the Rabi splitting between the two modes
+has square root n plus 1 in the photon number,
+and square root big N in the atom number.
+And so, the effect I've shown you
+in the demonstration of the vacuum Rabi splitting, at least
+the scaling with the atom number, this was actually--
+can be understood as a superradiant effect.

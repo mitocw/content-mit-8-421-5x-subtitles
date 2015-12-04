@@ -1,0 +1,183 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 173 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I've given you qualitative pictures
+for lasing without inversion, and for EIT.
+I want to give it a little bit more
+quantitative touch not by going through to the Optical Bloch
+Equations, which would be necessary to describe
+all features of it, but at least I
+want to give you one picture where
+you can derive and discuss things
+in a more quantitative way.
+And this is the eigenstate picture.
+So I've also done here what I've said several times,
+that when we have splittings between the levels,
+we can actually focus on what really matters,
+namely the detunings, by absorbing the laser
+frequency into the definition of our levels.
+And that's what I've done here.
+Instead of using levels g, f, and e,
+I've have levels with g, f, e, but this
+is the photon number in laser field one,
+and the photon number in laser field two.
+So if all the photons, the laser field one and laser field two,
+would be resonance with their respective transitions,
+then all those three levels would be degenerate.
+But now, in the three-level system,
+they are not degenerate only because we
+have a relative detuning delta-- a detuning small delta
+from the Raman resonance-- and we have a detuning big delta,
+which is sort of the common detuning of the Raman laser
+from the excited state levels.
+
+So therefore, if I define the Rabi frequency--
+so Rabi frequency is over 2 again,
+coefficient, and the Rabi frequencies
+are proportioned to the electric field.
+Therefore, they scale with the photon numbers n
+and m in the two laser beams.
+
+So if I do that, I have a really very simple Hamiltonian.
+On the diagonal, we simply have the detuning,
+the detuning of both laser beams from the excited state.
+Here we have the Raman detuning.
+And we have two couplings to the excited state.
+One is laser field one, g1, with n photons,
+and the other one is laser field g2 with m photons.
+Any questions about-- just sort of setting up the simple
+equations which we have done a few times.
+Let me focus first on the simple case
+that everything is on resonance.
+
+Then if everything is on resonance,
+we have the structure which I've shown here.
+You can sort of say you have three levels, which
+are degenerate without any Rabi frequency
+because the detunings are all 0, or all the diagonal is 0,
+and then the off-diagonal matrix elements, the Rabi frequencies,
+are just spreading the three levels apart.
+And the general structure of this matrix
+is that in the middle, you always
+have a state which is just a superposition of g and f.
+So it's a dark state.
+It has no contribution in the excited state.
+And the two outer states have equal contribution
+of the excited state.
+So the excited state has been distributed over the two
+outer states, and the widths of those levels
+is therefore gamma over 2.
+And we know when we had two levels
+and we were driving them with the Rabi frequency resonantly,
+we had splittings which were just
+given by the Rabi frequency.
+And now the splitting between the outer level
+and the dark state is the quadrature sum
+of the two Rabi frequencies.
+So that's a very general structure.
+
+I want to go back to the situation
+where one laser is a probe laser.
+Let's assume this is our laser beam which wants
+to go through the brick wall.
+And the other laser has to prepare the system.
+So let me discuss the limit where the photon number becomes
+very small in laser 1, the photon number n goes to unity,
+and this is much smaller than m.
+So we have the situation of a weak probe field.
+If we have this limit, then the dark state
+has much, much more amplitude in state g.
+And the state g is almost decoupled.
+It's in a trivial way the dark state,
+and the laser beam is very strongly mixing the state
+f and the excited state.
+So in this limit, we have a nice physical situation.
+I should actually point out that you
+can solve most of those situations
+for a three-level system analytically.
+It's just those expressions get long, and are not
+very transparent.
+So what I'm trying here is, in the classroom,
+I try to pick certain examples-- weak probe field resonance--
+where we can easily understand the new features which
+happen in this system.
+So the situation we have now prepared
+is we have our dark state, which is level g.
+We said we have only one photon in our probe beam.
+And we have lots and lots of photons in the coupling
+laser, which couples the other ground state, f, to the excited
+state, e.
+So we have the structure that we have
+now two states which have half of the widths of the excited
+state.
+And we can call-- and they are both bright.
+We can call one the bright state 1,
+and the other the bright state 2.
+And the splitting is related to the Rabi frequency.
+Let me just call it delta bar.
+So this is now the level structure which we have.
+And what I want to now emphasize in this picture
+is the phenomenon of interference.
+I want to sort of show you-- I mean,
+we've talked about interference of amplitudes,
+but now I want to take this system
+and show you how we get now interference
+when we send one probe photon through the system.
+What we can now formulate is a scattering problem.
+We have one photon in our probe beam in a special mode.
+But then, all the other modes are unoccupied.
+And when we're asking does the probe photon get absorbed,
+does the weak laser beam get stuck in the brick wall,
+we're actually asking if it is possible
+that we scatter the photon out of the mode.
+And it gets absorbed, but you know absorption is actually
+always a two-photon process that involves spontaneous emission.
+And we have emitted the photon into another mode.
+So this scattering problem is a two-photon process.
+And the matrix element needs an intermediate state.
+But now we have two.
+We start with one photon, we have the light-atom coupling,
+we can go through bright state one.
+From bright state one, we have the light-atom coupling again.
+And eventually, we go back to the ground state
+without photon.
+And here we have a detuning.
+It's assumed we are halfway detuned
+between the two bright states.
+And then we have a second amplitude,
+and it's indistinguishable.
+We have a Vaidman double-slit experiment.
+And everything here is the same, except that we
+scatter through bright state 2.
+And this matrix element, when it vanishes,
+this is now the condition of electromagnetically-induced
+transparency.
+But we want to now understand what happens
+when we detune the probe laser.
+So we have set up the system with a strong control laser.
+We've completely mixed the final state--
+this is not final, the state f, the ground state f,
+with the excited state.
+And now we want to ask can a weak probe
+laser go through the brick wall, or how much of the probe laser
+is absorbed.
+So what we want to understand now is what happens--
+and this is a new feature I want to discuss now--
+what happens when we detune the probe laser of delta.
+Well, it's clear, and I just wanted to show you the formula,
+we had two detunings here.
+And if you detune the probe laser by delta,
+that would mean now that those denominators are no longer
+opposite but equal.
+In one case, we add delta.
+In the other case, we subtract delta.
+And therefore, we have no longer the cancellation
+of the two amplitude, and we have

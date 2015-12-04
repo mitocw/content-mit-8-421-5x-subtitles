@@ -1,0 +1,114 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 104 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What I first want to discuss is another aspect
+of the dark state.
+And this goes by the name EIT, electromagnetically-induced
+transparency.
+I can introduce this topic by a question to Radio Yerevan.
+Is it possible to send a laser beam through a brick wall?
+And, well, the answer of Radio Yerevan, if you know the joke,
+is always, in principle, yes.
+But you need another very powerful laser.
+So in an incoherent way, of course, a very powerful laser
+can drill a hole into the wall, and then the next laser
+can go through the wall without absorption.
+But you can be smarter if the very powerful laser,
+through coherence, puts all the atoms in the brick--
+in the beam parts of the laser into a coherent superposition
+state.
+And then they become a dark state.
+Then your laser can go through a brick wall.
+So, can a laser beam penetrate an optically thick medium.
+
+And the answer is yes, with the help of another laser.
+
+Original ideas along those lines were
+formulated by Steve Harris, who has really
+pioneered this field.
+And he first considered special auto-ionizing excited states
+which couple to-- there were two pathways of coupling
+into the continuum.
+But later work has shown that it can
+be realized in a lambda system.
+So let me talk about this conceptually simpler
+realization in a three-level lambda system.
+Let's assume we have again our normal--
+our three-level system, gf, and an excited
+state, which has a width gamma.
+And we want to send the probe laser through a dense medium.
+And it would be completely absorbed by the resonance
+to the excited state.
+But now we can have a strong coupling laser
+with a Rabi frequency omega c.
+And so if we drive the system very strongly,
+we can create a situation where the coupling laser does-- well,
+if it's strong enough-- compete mixing between the excited
+state and the ground state.
+And that means if you have two levels which are completely
+mixed, they are split by the energy or the frequency
+of the coupling.
+So in other words, what we obtain is we
+have now two states, e plus f and e minus f.
+Another way how you should read it is the following.
+You can just assume for a second the state
+f will degenerate with gamma.
+And then I put in a very strong mixing between the two.
+This is exactly the example we had with hydrogen
+in an electric field.
+And then we get two states which have both reached gamma over 2.
+They are strongly mixed.
+And the splitting is nothing else than the matrix element
+of the electric field.
+But if you don't have two degenerate states
+and we add a photon, then the photon--
+I mentioned it again and again in [INAUDIBLE] atom picture--
+creates a degeneracy.
+You can just add a photon, draw a dashed line,
+and this is your virtual state, if you want.
+Or if you look at Schrodinger's equation,
+you have something which oscillates
+at the frequency of the state f, but now
+you multiply it with an electric field which oscillates
+at the resonance frequency.
+And then you have something which
+oscillates at the sum of the two frequencies.
+And this is exactly what I indicated with a dashed line.
+So that's how you create, so to speak, a degeneracy
+by using the frequency of the laser to overcome the energy
+splitting.
+And the result is that you have created exactly
+this excited state level structure.
+And if we now look at the ground state
+and our photon is tuned right between those two continua,
+then we have a dark resonance.
+
+And in order to accomplish this, I'm
+not going into any calculations here,
+but you need a sufficiently strong coupling
+laser who can accomplish that.
+For instance, coupling laser which
+is stronger than the spontaneous emission rate or decoherence
+rate gamma in the excited state.
+So if we now scan the probe laser
+and we look for transmission, let
+me assume for simplicity that there is no relaxation
+between the two ground states.
+And if the coupling laser strength is 0,
+then we have a broad feature, which
+is simply the single-photon absorption of the probe light.
+If we have an infinitesimal coupling laser strings,
+we get a very, very sharp feature.
+And if the coupling laser is stronger and stronger,
+we get a window, a window of transparency.
+And the width is given, the width delta omega
+of this central feature, is given by the Rabi frequency
+of the coupling laser.
