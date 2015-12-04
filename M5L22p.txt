@@ -1,0 +1,44 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22p.txt
+#
+# Captions for 8.421x module
+#
+# This file has 35 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So, therefore, what this crucial here
+is knowledge, or at least reproducibility, when you
+of the phase phi.
+And then you can get Nero lines.
+So examples for techniques where you excite the system is T=0
+and then you can do delayed detection or quantum beads.
+I've mentioned earlier in the course the Ramsey spectroscopy,
+where you've one Ramsey zone where you prepare your block
+vector.
+Then the block vector oscillates.
+And if you simply look at the face angle of the block vector
+after very long time, you have very high precision.
+But, you're dealing with an exponentially small signal.
+And another example of heterodyne or homodyne
+techniques.
+But you need something which is phase sensitive in order
+to obtain sub-nature align bits.
+The final comment is if you want to get
+higher resolution with delayed detection, yes, you can get it.
+But you lose exponentially in signal.
+And what does it mean in practice?
+Well, if you know your line shape,
+you know it's well described by Lorentzian.
+It is better to take your full signal
+and use then an excellent signal to noise
+to find the lines' center and split the line.
+However, if there is any ambiguity,
+there may be difficult, not fully resolved lines
+under the Lorentzian and you don't
+know how to split the line.
+Then it may be better to do delayed detection action
+and clearly see the structural of the lines
+with sub-natural resolution.

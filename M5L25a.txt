@@ -1,0 +1,91 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 81 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+And today we're going to talk about coherence between atoms.
+So this is now, I think for the first time in this course,
+that we really have more than one atom.
+Well, maybe we discuss some collision or thwarting or we
+discuss the Vondermals interaction between two atoms.
+But, usually, atomic physics is one atom at a time.
+But now we want to understand one important phenomenon, which
+happens when we have many atoms.
+And the phenomenon is called superradiance.
+So, I left something good for the end.
+And superradiance has in common the word
+super with superconductivity and superfluidity.
+And it really represents that many atoms act together.
+And the word super also means coherence among atoms.
+Superfluidity and superconductivity
+have macroscopic wave function where all the atoms, the matter
+waves are coherent.
+The phenomenon of superradiance, as we will see,
+has not so much to do with coherent atoms,
+it has more to do with coherent photons.
+So it's more-- some people regard superradiance as a laser
+without mirrors.
+But you'll see where the story leads us to.
+So, just to set the stage for many atoms,
+we should first talk about single atoms and all
+that is described in this landmark paper
+by Vicke, 1954, which is posted on our website.
+So, if you have a single atom prepared in the excited state,
+it's decays to the ground state.
+And we want to characterize the system by an emission rate
+as a function of time.
+So, the emission rate, initially, is gamma.
+Gamma-- they're natural alignments
+of the excited state.
+And then, of course, the emission rate
+decays, because we don't have any atoms left.
+Similarly, the probability to be in the ground state
+is zero, initially.
+And then, with an exponential approach,
+it eventually goes to unity after awhile,
+after we have only atoms in the ground state.
+So, this is rather straightforward.
+But now we want to bring in a second atom.
+And, I'm asking what happens when we have not
+one atom but two atoms-- one is in the ground state,
+one is exciting.
+So pretty much what we have added to the original situation
+with one excited atom was we have brought in one
+ground state atom, which now, if you would think, does nothing.
+But that's not the case, we will drop the assumption later.
+But we assume for now that all the atoms obviously in
+of the wavelengths.
+What we then realize is for two atoms--
+and I will show you that in its full beauty--
+that the initial rate of light, which comes out of the system
+is the same.
+So, the extra ground state atom does not
+change the initial emission rate.
+But, it goes down faster.
+And if we ask what is the probability that the atom is
+in the ground state, we find that it's only one half.
+So, in other words, normalized per our system
+we have a ground and excited state atom.
+And what comes out is only half a photon, half of the atoms
+do not decay.
+So it's not the same rate and the same decay.
+Something profoundly has happened.
+And this is what you want to understand.
+So let me give you the correct answer.
+So, the rate of emission is a function
+of time for this situation.
+We start out with gamma, but then the emission
+decays not with gamma but with two gamma.
+And, the probability that both atoms are in the ground state,
+or that the second atom, so to speak, is in the ground state
+will only assume toted equal to one half.
+And it does so exponentially, but, again,
+with a time constant, which is two times faster
+than for the single atom system.
+So we have the same initial emission rate, but only
+but only probability of one half to emit at all.

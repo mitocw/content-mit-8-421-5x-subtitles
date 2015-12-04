@@ -1,0 +1,144 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L21f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 134 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So let us assume that we have an atom which
+starts in the ground state, but now we excite the atom.
+And we excite it by a short pulse.
+And this can be a pulse, which is has
+a pulse angle between 0 and pi.
+And depending what the pulse angle is,
+we have the ground state, and we'll
+mix something of the excited state.
+And in case of a pi pulse, we have 100% in the excited state.
+So our atomic wave function is this.
+The excited state-- let's just assume at the photons
+are on resonance.
+We know how to deal with off-resonant lasers.
+So, therefore, the phase evolution
+is e to the i omega0 t.
+But now, and this is what coherence is about,
+there is a very specific phase.
+And this phase, phi, comes from the laser.
+If you excite the atom with a laser beam,
+but it has a phase shift, then the atomic wave function
+is phase shifted.
+Because every amplitude you had mixed into the ground state
+in form of an excited state, was driven by the operator--
+the dipole operator e-- and e, the electric field,
+has a phase of the laser beam.
+Sure, there may be-- and kind of all other trivial factors
+I've set to 1 here-- but there is
+the phase of the laser which directly
+is imprinted into the phase of the wave function.
+
+So this is what the atom does, what the laser
+beam does to the atom.
+So we have now an atom, which is partially excited,
+and it carries an imprint off the phase of the laser.
+And now, after the laser pulse is over,
+the photonic part of the function is a vacuum.
+We have no photon in our cavity.
+And now we wait and we allow spontaneous emission.
+And spontaneous emission is nothing else
+than a time evolution with the operator I just
+discussed with you.
+So after spontaneous emission, one as we know for sure,
+the atom is in the ground state.
+Let me write down the result. If you apply the operator which
+couples to the electromagnetic field,
+and we assume only co-rotating terms here of-- let's just
+neglect counterrotating rotating terms, which
+can become-- which [INAUDIBLE] resonance are irrelevant.
+What happens is, we are now propagating this wave function.
+And the ground state-- with the ground state of the photon,
+does nothing.
+However, the excited state with 0 photon-- we discussed it.
+Excited state with 0 photon will actually
+do Rabi oscillation-- ground state with 1 photon;
+excited state with 0 photons.
+And so we have now our knowledge from the vacuum Rabi
+oscillation . that this is part of the wave function does
+nothing.
+This part of the wave function undergoes single photon vacuum
+Rabi oscillations.
+And if you start out with the superposition of ground 0
+and excited 0, well this is a superposition principle
+of quantum mechanics, we can just propagate this part
+and we can propagate that part.
+So what I suggest is when we-- really
+at the fundamental level, and I'll
+discuss spontaneous emission, we allow the part, excited atom
+empty cavity, to undergo half a vacuum Rabi oscillation.
+And then the excited state is in the ground state.
+And the photon state has 1 photon.
+It's a completely coherent Rabi oscillation.
+It just allows half a cycle to evolve.
+And the result of that is-- well,
+nothing happened to this part.
+And the Rabi oscillations have now
+taken us to the 1 photon state.
+
+And it has just swapped excited 0 to ground state 1 photon.
+
+So let me write down something which is really remarkable.
+And then we discuss on Monday-- next Monday,
+we discuss how we would really measure the phase.
+But just look at the two expressions I've underlined.
+And this tells us that the quantum state
+of the atom as a two-level system-- ground excited
+state with all the phase factors--
+has been now exactly matched on the quantum
+state of the cavity.
+So if you regard ground and excited state
+as a two-level system, every quantum mechanical,
+subtly of the atomic system has now disappeared.
+It's in the ground state.
+But everything which was coherent,
+which was a phase, which was interesting
+about the atomic system has been transferred
+to the photon field.
+Yes?
+[INAUDIBLE], do you want to have an alpha e there also?
+Yes, please.
+Thank you.
+When I said everything, I meant everything.
+
+So this is what I meant, that this
+is the most fundamental aspect of spontaneous emission.
+The quantum state of the atom has been perfectly
+matched, perfectly mapped, onto the photon field.
+
+And the one thing we have to discuss on Wednesday
+is the role of the phase phi.
+We started out by phi being the phase of the laser.
+And if the laser is in a coherent state--
+and I will talk about on Wednesday,
+in a [INAUDIBLE] measurement, we can measure phi
+to any accuracy you want.
+We can determine the phase of the laser
+in [INAUDIBLE] experiment.
+This phase phi has been now perfectly imprinted
+into a two-level system for the atom.
+And now it appears mapped into a two-level system
+for the photons-- the two-level system between 0 photons and 1
+photons.
+But if we are now doing a measurement,
+either on the atomic system or on the photonic system,
+we are limited in the accuracy at which we can retrieve phi.
+And this is what you're going to discuss on Wednesday.
+And this is what I referred too as the fundamental limit
+of spontaneous emission.
+Because we have not lost any coherence here,
+it's just if the phase is only imprinted in one particle.
+One particle quantum physics sets us a limitation
+how well we can read out the phase phi.
+
+Any questions?

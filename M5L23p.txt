@@ -1,0 +1,76 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23p.txt
+#
+# Captions for 8.421x module
+#
+# This file has 66 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+How can this be realized?
+Let me just give you the first possible realization,
+and then I think we should stop.
+We could, in principle, realize it with high torsion and the DC
+electric field.
+Remember, hydrogen has the 1s level, has the 2s level,
+and the 2p state.
+And you all had a nice-- did a nice homework assignment that's
+when you have a DC field, you actually coupled 2s and 2p.
+And if your DC field is stronger than the Lamb shift,
+you actually create a superposition
+of 2s and 2p states.
+And now, if you tune your laser right in between,
+you have a dark resonance.
+So, the situation is if I would now
+plot the absorption versus frequency,
+you would find that if you're in resonance with the upper state
+you absorb.
+But then in between there is this notch
+where you have zero absorption.
+So, for this simple case with hydrogen
+in a DC electric field, the dark resonance
+occurs when you have equaled the tuning for the atom
+with respect to the two states.
+And, I like to connect it to classical physics.
+You know that absorption is related when you
+absorb your light scattering.
+The photons are not disappearing.
+They're just scattered into other modes.
+That's what absorption is about.
+And clasically, lights scattering
+comes because you've been oscillating dipole moment.
+But what happens is if you have this coherent superposition
+and you are right in between-- you
+have a positive detuning with one harmonic oscillator
+and a negative detuning with the other harmonic oscillator.
+So if you drive a harmonic oscillator-- and this is one
+and this is the other-- with positive
+detuning with ready tuning, the dipole moment
+is in phase with the electric field.
+In the other case, it's out of phase.
+So now you have to the two excited states,
+and you're driving two equal but opposite dipole
+moments in those two states.
+And, therefore, the two dipole moments add up to zero.
+Therefore, the laser just using our understanding
+of a simple harmonic oscillator is not
+creating any dipole moment.
+Therefore, we're not scattering any light.
+And, therefore, we're not absorbing any light.
+So this is how you can now realize in the hydrogen atom
+using DC magnetic field and creating this level structure.
+You can create lasing without inversion.
+But, I will tell you on Wednesday--
+no today is wednesday-- next Monday,
+next week that we don't have to deal with the difficulties
+of hydrogen atoms in the laboratory.
+We can just use our favorite alkalies
+and dress the alkalies up with laser beams.
+And, eventually, create the same situation
+with an atom, which is experimentally
+much simpler to address.
+Any questions?
+
+OK, one more week to go.
