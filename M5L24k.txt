@@ -1,0 +1,152 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24k.txt
+#
+# Captions for 8.421x module
+#
+# This file has 142 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me first give you a drawing which
+may illustrate or summarize what I've just said.
+So what we try to understand is, what happens
+when we detune the probe laser.
+And until now, we had always the EIT feature.
+The EIT window, was completely overlapping
+with the one-photon resonance.
+But now, because the laser, the coupling laser,
+has a detuning of gamma two, we have
+to use with the probe laser-- so the Raman detuning was big
+Delta two minus big Delta one.
+And if the detuning Delta is chosen to be Delta two,
+we have the simple situation that we
+go from the ground state right to the excited state.
+And we have the feature which has a width of gamma.
+This is what you would call the single-photon resonance.
+It is the single-photon resonance.
+It is [? due ?] by resonantly coupling into this continuum.
+And the only feature of the coupling laser
+is that there is an AC Stark shift to it.
+Now, we have a second feature which can be very sharp.
+
+This is when we do the two-photon Raman process
+into the other ground state.
+
+Due to photon scattering, this resonance
+has a width of gamma scattering.
+And the position is not at zero at the naked Raman resonance.
+It also has an AC Stark shift.
+Because the coupling laser does an AC Stark shift
+to both the excited and the ground state.
+The coupling laser, the AC Stark shift
+pushes ground and excited state in opposite directions.
+So therefore, we find that at the Rabi frequency
+of the coupling divided by gamma over two.
+So the name of this feature is the two-photon Raman resonance
+plus the AC Stark shift.
+Which actually means it's a four-photon process.
+
+The questions is now, where is the electromagnetically induced
+transparency?
+
+We have introduced now, specifically, the absorption
+feature.
+We have identified a one-photon absorption feature
+plus AC Stark shift, a two-photon absorption
+feature plus AC Stark shift.
+But where is electromagnetically induced transparency?
+
+Here-- electromagnetically induced transparency
+is always at delta equals zero.
+You have to fulfill the Raman resonance.
+
+And this resonance is not affected by any AC Stark shift.
+So it's always at delta equals zero.
+So therefore, what that means is,
+you have two absorption features.
+And you would think these are two Lorentzians.
+But they interfere and they go to exactly zero
+at delta equals zero.
+And this is our EIT feature.
+So there is an interference effect between a broad feature
+and a narrow feature.
+And this is found in many different,
+I want to say parts of spectroscopy.
+But you also find it in nuclear physics
+whenever you have a narrow feature embedded
+into continuum.
+What we have here is a narrow feature and, well,
+a broader feature.
+But a narrow feature in something
+which is broader or continuum is called a funnel resonance.
+You actually have the same situation
+when you look at scattering of atoms.
+Many of you are familiar with Feshbach resonances.
+Well, a lot of people call it funnel Feshbach resonance.
+And what you have is, in a funnel Feshbach resonance,
+is two atoms can scatter off each other.
+This is sort of the continuum.
+This would be your broad feature.
+But then they can also scatter through a molecular state.
+And this is a narrow feature.
+And what we have identified now, for electromagnetically
+induced transparency, are the two features.
+One is the single-photon absorption.
+One is the Raman resonance.
+But in general, the concept is much more general.
+You have a narrow feature.
+You have a broader feature.
+It's responsible for scattering two atoms.
+Or it's responsible for scattering a photon.
+And once the photon or the atoms have been scattered,
+you have no way of telling which intermediate state was
+involved.
+And therefore you get interference.
+And what I just said, what is EIT for light,
+is the zero crossing over scattering lengths
+that the atoms do not scatter of each other.
+Because the two different processes complete
+the destructively interfere.
+OK, so what I've shown here is sort of two
+Lorentzian, two absorption, features.
+Let me now replot it and plot the index
+of refraction minus one.
+Here was EIT, zero detuning.
+We have the sharp feature here at the two-photon resonance.
+We have a broad feature here at the single-photon resonance.
+And if I now transform the Lorentzian
+into a dispersive feature-- well, I use freehand.
+So this is the dispersive feature
+for the broad transition.
+The narrow transition has a much, much sharper
+dispersive feature.
+And the important part is now at the EIT,
+at the condition delta.
+At the detuning delta is zero, where
+we have electromagnetically induced transparency.
+We have an index of refraction which is exactly one.
+Because it's a dark state.
+You have no absorption.
+You have no light scattering.
+You have no reaction to the light.
+And therefore, the index of the refraction of the material
+is like the index of refraction of the vacuum.
+So you have n equals one.
+It looks like vacuum in terms of index of refraction.
+It looks like vacuum because you have no absorption.
+But what you have is, you have a large derivative
+of the index of refraction with the frequency detuning.
+And that affects-- and that's what
+I want to tell you now-- the group velocity of light.
+So anyway, this is maybe as far as I want to push it.
+And I was actually wondering if this is a little bit too
+complicated to present in class.
+But on the other hand, I think it's sort
+of also wraps up the course.
+We have with three-level system.
+And we find a lot of things we have studied separately before,
+two-photon Raman feature, single-photon light scattering.
+But now they act together, and they
+interfere, and have this additional feature

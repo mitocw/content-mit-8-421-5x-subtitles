@@ -1,0 +1,56 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22q.txt
+#
+# Captions for 8.421x module
+#
+# This file has 46 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Now we are ready to do the next step,
+namely to talk about coherence in three level systems.
+
+And if we had three levels, we could think about it--
+we have terms which connect kind of level one to two,
+level two to three, and level three to one
+in all possible ways, but that's not
+what we want to assume here.
+The situation where we can discuss some fundamentally new
+effects is when we have two states connected
+through a third state.
+
+In other words, if you have two levels,
+we are not allowing any transition matrix element
+connecting the two, they are only
+connected through a third state.
+This is for obvious reasons called the lambda-type system.
+You can turn it upside down and you have the v-type system.
+Or if the intermediate state is between the first
+and the second state, you have a ladder type system.
+But once you start driving it, it may not really matter.
+There may be a dressed atom description
+where if you drive two states coherently in the dressed atom
+picture, you've degeneracy between this level
+and one more photon in this level.
+And then in the dressed atom picture,
+which includes a number of photons,
+the two levels have become degenerate.
+So therefore, it's very important
+for practical applications or how
+to implement it in an atom, what kind of system you have.
+But for the description of those systems,
+some of the differences may simply
+disappear if you formulated in the dressed atom basis.
+Of course, there is an important practical reason.
+Usually the lower states are ground states,
+the upper states are excited states.
+And here you have the opportunity--
+and that's why the lambda-type system is the most important
+one-- to have some coherent superposition mediated
+by the third state.
+And the coherent superposition is stable,
+because it's equivalent to a position of ground states.
+If any form of coherent superposition
+involves an excited state, then you have short lived states

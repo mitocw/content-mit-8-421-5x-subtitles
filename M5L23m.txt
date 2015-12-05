@@ -1,0 +1,63 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23m.txt
+#
+# Captions for 8.421x module
+#
+# This file has 53 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Our next topic is lasing, or gain, without inversion.
+I want to show you what was actually a rather
+recent accomplishment that this common belief that you need
+population in the excited state which
+is larger in the ground state for optical gain and lasing
+is not true.
+Well, it's true for a two-level system.
+But it's not true when you have more than two levels.
+And I'll discuss it here for the case of a three-level system.
+And this is a really insight which
+came as recent as in the '80s.
+One reference is, the person who pioneered a lot of work
+on three-level systems and provided a lot of insight
+was Steve Harris at Stanford.
+And this was a paper in the late '80s which
+enunciated the possibility of having
+lasing without inversion.
+And you know, when you are a graduate student like me
+who was educated earlier, you start saying, gee whiz, that's
+not what I learned in class.
+But of course, it's often the small [? sprint ?].
+It's the assumption for a two-level system.
+So the secret behind lasing without inversion
+is that you can have cancellation of absorption
+by interference.
+In other words, this belief that you need inversion
+comes that you want that the stimulated emission is
+stronger than the absorption.
+But if you have a three-level system, you have to be careful.
+We have interference effect.
+And what I want to show you is that we
+can create a situation where we have destructive interference
+for absorption.
+But we don't have destructive interference
+for stimulated emission.
+So therefore, we can now afford to have more population
+in the ground state.
+Because the absorption out of the ground
+state does not have to be suppressed
+by minimizing the population in the ground state.
+We have an interference effect which suppresses absorption
+from the ground state population.
+And therefore, the ground state population
+can be larger than in a two-level system.
+
+I could simply tell you, you can hide population
+in the dark state, end of discussion.
+And you get the basic idea.
+But the concept of lasing without inversion
+is richer than that.
+It's connected to the dark state, but there is more to is.
+So that's why I want to spend the rest of today's class

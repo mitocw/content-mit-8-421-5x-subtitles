@@ -1,0 +1,95 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 85 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What you want to discuss now is the rate,
+which is the matrix element squared, or the intensity
+of the observed radiation, relative to a single particle.
+So the intensity, and this is what we are talking about,
+is now the square of the square root.
+Which is S minus one plus M times S plus M.
+Pretty much, this is the complete description
+of superradiance for strongly localized atoms.
+It's all in this one formula.
+Once we learned how classify the states,
+we can just borrow all the results
+from angular momentum addition and angular momentum operators.
+So, I want to use this formula for the intensity
+and look at which is the most superradiant state,
+the state where all the particles are symmetric.
+And this is the state where the spin is N over two.
+So I'm looking now at the ladder of M states
+and want to figure out what happens.
+So the maximum M state is M equals S.
+All the atoms are excited.
+And now the first photon gets emitted.
+So just put S equals M equals N half
+into the formula for the intensity.
+And you find that the intensity gives us
+this expression is just N.
+So we have N excited atoms.
+And they initially emit with an intensity, which is N.
+And this is the same as for N completely independent atoms.
+So nothing really special to write home about.
+But now we should go further down the ladder.
+And let's look at the state which has M equals zero.
+Well, then the intensity, or the matrix element squared,
+for the transition which goes to M
+equals zero has an intensity which is N over two.
+I mean, just look.
+S is N over two.
+And M is zero.
+So we have the question whether we have odd or even number
+of particles.
+But it doesn't really matter.
+What dominates is always the big factor, N over two.
+So what we find out is that we have an enhancement,
+huge enhancement over independent atom,
+because this intensity goes with N square.
+And this proportionality to N square, this
+is the hallmark of superradiance.
+So this is what is characteristic
+for superradiance.
+We have an N times enhancement relative to a single atom.
+Now in the classical picture, that
+should come very naturally.
+If you have all the spins aligned,
+and they start their Larmor precession.
+There is not a lot of oscillating dipole moment.
+But when half of the spins are de-excited,
+they are now in the xy plane.
+Now you have this giant antenna which oscillates and radiates.
+So it's clear that at the beginning,
+the effect is less pronounced.
+And if you are halfway down the Bloch sphere,
+then you would expect this N times enhancement.
+But now let's go further down the ladder
+and ask what happens when we arrive at the end?
+So I'm asking now, what is the intensity when
+the last photon gets emitted?
+There is only one excitation in the system.
+And the answer is, it's not one like an independent atom.
+If you inspect the square root expression, you find it's N.
+So we have one excitation in the system,
+but it's complete symmetrized.
+And therefore, we have an N times enhancement.
+And I want to show you where it comes about.
+So there is only one particle excited.
+And here we have an N times enhancement.
+By the way, they states with the classification S and M are
+called the Dicke state.
+And this state here, which has a single excitation but it
+radiates N times faster than a single atom,
+is very special Dicke state.
+And there is currently an effort in Professor [? Woletage's ?]
+lab to realize in a very valid controlled way,
+this special Dicke state in the laboratory.
+These are sort of non-classical states
+because they are not behaving as you would, maybe, naturally

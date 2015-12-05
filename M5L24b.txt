@@ -1,0 +1,98 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 88 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I showed you one possible realization.
+And this is about hydrogen in a DC electric field.
+If we mix the 2s and 2p states with an electric field,
+we have this three-level structure.
+And for laser detuned right in the middle between the two
+states, the two amplitudes for excitation cancel exactly.
+And therefore, you have a zero absorption feature.
+
+However, if you put now a little bit of population into the,
+let's say, the upper state.
+This upper state in the wings of its profile
+has still gain for stimulated emission.
+And what we get is lasing without inversion.
+Now you would say, OK, but that's the hydrogen atom.
+Which atom is really degenerate between two levels.
+And you can split the degeneracy with a static electric field.
+Well, I mean, you're already an expert
+at this point in the course.
+If the 2s and 2p state are widely separated, well,
+you add a photon.
+And the photon, which is in resonance
+with the 2s and 2p state creates, in the [INAUDIBLE]
+atom picture, degeneracy.
+Because the 2s state-- maybe I should have shown the p state
+higher-- the 2s state with one more photon
+and the 2p state with one photon less have the same energy.
+And then you create exactly this situation.
+So therefore, the way how you can
+realize that in atoms, other than hydrogen,
+is use an AC electric field to mix S and P states.
+And I'll show you in five minutes a little bit more
+in detail what I mean by that.
+There is a trivial realization, which
+I want to mention for lasing without inversion.
+And this would be if you have a three-level system
+with an excited state, two levels G and F in the ground
+state, you may have an inversion for the E to G transition.
+And therefore, you can get lasing
+because the population in this state F is not coupled.
+I mean, this is pretty trivial.
+But the more subtle part, of course,
+is that we can realize it using a driven system using a control
+laser by creating the same situation with the bright
+and the dark state.
+And population in the dark state is sort of
+hidden from the light and does not absorb light.
+Let me just indicate that so in both those states,
+we would have no absorption dark state.
+Those examples may raise the question,
+whether whenever you have lasing without inversion if you
+can find a basis set where you have sort of inversion
+again between the two levels which are relevant.
+And the extra population is just hidden.
+I want to make two comments about it.
+This question is sometimes discussed
+in the literature, sometimes in a semi-controversial way.
+There are two comments about it.
+One is, when you start dressing up the laser,
+dressing up your system with laser beams,
+you have strong control lasers.
+We have two lasers here, omega one, omega two.
+One is often a strong control laser.
+And the other one is the weak laser
+where we want to have lasing.
+You have actually a time-dependent system driven
+by time-dependent fields.
+And once you have a time-dependent system,
+it's no longer clear what the eigenstates are,
+what the population are, and what are the coherences.
+So you have different-- there is no longer a unique way
+to distinguish what other eigenstates.
+Because every state is, so to speak,
+time dependent almost by definition.
+On the other hand, I think the example I gave you
+with atomic hydrogen, where you just
+do a little bit of mixing with an electric field,
+is an example where you genuinely
+have less population in the excited state
+than you have in the ground state.
+And at least the equation tells you, even without inversion you
+have a net gain.
+So my own understanding of that situation
+is that in many situations, you can actually
+reduce it to a simple picture where you have simply hidden
+population in a dark state.
+But without any sort of unnatural definitions,
+you may not find that in some other systems.

@@ -1,0 +1,53 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25j.txt
+#
+# Captions for 8.421x module
+#
+# This file has 43 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's maybe try to shed some light on it.
+One way how you can intuitively learn this in superradiance
+is really with a classical antenna picture
+that you have n spins, which form a macroscopic dipole
+moment which oscillates.
+And this is a very nice picture to understand the n times
+enhancement when we have half of the atoms excited,
+and the other half de-excited.
+Let me now give you a nice argument
+which explains why a single excitation in the system
+now leads to an n times enhanced decay.
+The situation is that the initial state
+for this last photon is we have an excited atom,
+and all the atoms are in the ground state.
+However, we could also have, in this nomenclature,
+the second atom excited, or we could have the third one
+excited, and so on.
+So therefore what we have is because we
+are in the left-most Dicke ladder, which has the maximum S
+spin [INAUDIBLE] number of n over 2,
+that means everything is fully symmetrized so therefore we
+have to fully symmetrize by summing over the n
+possibilities.
+And our final state is, of course, the fully symmetrized
+count state.
+And now you'll realize that you have
+a coherent summation over-- you have n contributions.
+
+So therefore the matrix element has n contributions
+compared to single atom.
+The normalization is only square root n,
+so therefore the matrix element is square root n times larger
+than for an atom.
+So by simply having one atom excited and n
+minus 1 atom not excited, but if you now
+have the fully symmetrized state,
+you don't know for fundamental reasons which atom is excited.
+Tou have a superposition state where the excitation can
+be with either of the atoms.
+This state, which has a single [INAUDIBLE]
+of excitation radiates n times faster than a single atom
+would.

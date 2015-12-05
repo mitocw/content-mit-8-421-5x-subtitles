@@ -1,0 +1,219 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25k.txt
+#
+# Captions for 8.421x module
+#
+# This file has 209 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So that's the basic phenomenon of superradiance.
+Let's assume we have the same system
+and we just convinced ourselves, yes it's superradiant.
+Photons are emitted N times faster.
+Now, what would you think will happen when we are not
+looking for spontaneous emission,
+but we shine a laser light on it and we are
+asking for induced emission?
+Or the other way around, we ask--
+and you know that from Einstein's treatment,
+it's completely reciprocal-- we'll
+be asking the question what happens to the absorption
+process?
+So is a stimulated emission process or an absorption
+process, are they also enhanced N times?
+
+I don't know.
+Do you have any opinions about that?
+
+It should be, because it's [INAUDIBLE] new system.
+So we forget that they were in atoms.
+We just treat it as one new system, and those [INAUDIBLE],
+so a stimulated emission [INAUDIBLE].
+Yes.
+It's a subtle way of counting.
+I've shown you with that certain matrix element, especially
+the matrix element when the spin is sort of in the middle,
+is at 90 degrees, that we have matrix elements which
+are N times enhanced.
+And of course, if we ask for absorption or stimulated
+emission, we're talking to a system, which has an N times
+enhanced matrix element, and you would
+say things go N times faster.
+Why don't you hold this thought for a moment.
+Now let me just wear another hat and say
+we have assumed that we have n independent spins
+that are closely next to each other
+but they're not interacting.
+And now I take these N spins, and for stimulated emission
+and absorption we can just use the picture
+of Rabi oscillation.
+On the first Rabi cycle, we emit.
+On the next Rabi cycle, we absorb.
+So if I take now-- and why don't you think about,
+not about these pseudospins, electronically,
+atoms with electronic excitation,
+just think of real spins which have a magnetic moment
+and you drive them with a magnetic field.
+So now you have your N little spins.
+You apply a magnetic field to them--
+time-dependent magnetic field-- and the time-dependent magnetic
+field is now driving the spin in Rabi oscillations.
+And the external drive field talks to one spin,
+talks to the next, talks to all of them, but each of the spins
+does exactly the same Rabi oscillation
+it would do if all the other atoms were not present.
+So the picture is you have an external field, all the atoms
+coupled to the external field, but the coupling
+of each atom to this external field
+is exactly the same as of a single atom
+coupling to the external field, and the Rabi frequency
+for each atom is exactly the Rabi frequency you
+would get for a single atom.
+So therefore, based on this picture,
+I would expect that I have my N spins,
+and these can now be real spins with a magnetic moment
+or can be atoms in the electronically excited state.
+I coherently drive them with a drive field
+and they will do Rabi oscillations,
+but the frequency of Rabi oscillations
+will be the same as for a single atom.
+OK.
+We've just held the thought that there
+are matrix elements in the Dicke states
+which are N times-- square root N times larger--
+and it seems-- the Dicke states seem to suggest something
+to us, which would say there should
+be an enhancement, whereas the analysis in independent atoms
+which are driven by an external field also seems compelling.
+So now we have to reconcile the two approaches.
+Is the question clear?
+So we want to figure out, we have matrix elements
+in the Dicke state which suggest enhancement,
+but the simple picture of N independent atoms
+driven by an external field would
+say there is no enhancement.
+OK.
+So let me just write down more formally what I explained.
+When we have an initial state, which
+is all the atoms are in the ground state to the power N,
+and the state N would evolve when it is
+driven in the state phi of t.
+So now the-- let me-- how do I say--
+the wave function for-- the exact wave function for our N
+particles is nothing else than the time-dependent solution
+of Schrodinger's equation for a single particle--
+so this is single particle-- to the power N.
+So therefore-- I mean, this is pretty much
+a mathematical proof.
+So it takes exactly 1/2 a single atom Rabi period
+to completely invert the population
+exactly as for a single atom.
+So that's the result. However, if you describe the system
+by Dicke states, you have matrix elements
+which are proportional to N. However,
+if you want to-- I mean, I've sort of described it just
+as a two level system.
+Each atom does Rabi oscillation.
+Then I've said, OK, the N-- the system of N atoms
+is just N individual systems.
+But if you insist to describe it as a collective spin,
+then we have the Dicke states, then
+we have the N times enhancement of the matrix element, but then
+we also have to go through N states.
+So we have N steps in the Dicke ladder, and one can say now--
+and this is sort of the exact argument-- you have N steps.
+You take each step N times faster.
+But the total time is the same.
+Sort of N times 1/N is 1.
+OK.
+But now, when we talk about spontaneous emission,
+we are not driving the system with an external field.
+It's really driven by the system itself, which emits photons
+into the empty mode.
+Spontaneous emission, each step is
+proportional to the matrix element squared
+because we're talking about Fermi's golden rule
+in spontaneous emission.
+So this is proportional to N squared.
+And if you say that we have N steps, well,
+then we have N squared over N. Then we have a speedup.
+Each step is N squared faster.
+We divide by N and we get the superradiant speedup,
+which is N.
+So superradiance is something which you observe
+in spontaneous emission.
+But you cannot absorb it in a driven system,
+because in a driven system you can say you have a classical
+external field and this external field talks to one atom,
+to N atoms exactly in the same way.
+It is really the interference of spontaneously emitted photons
+which is at the heart of superradiance.
+As a side remark, we're talking here
+about the coherent effect, which is N times enhanced,
+and you can actually regard that as a kind
+of bosonic enhancement in the emission of photons
+because the photons are bosons.
+When Bose-Einstein condensation was discovered
+and people were thinking about basic experiments, of course
+one thing which was on our mind is
+we wanted to show that there are processes
+in the Bose-Einstein condensate which are N times enhanced.
+For fermions they would be suppressed.
+This is sort of the flip side.
+Weak enhancement for bosons, complete suppression
+for fermions.
+And we found it.
+For instance, formation of the condensate had an N times
+enhancement.
+There was a stimulation factor.
+But we also thought, you should actually--
+there may be ways where you can observe suppression
+of light scattering or enhancement
+of light scattering.
+But we thought about it with two laser beams backscattering,
+and the ideas seemed compelling.
+And then we said no, wait a moment.
+If we use laser beams, everything is stimulated.
+You can observe bosonic enhancement
+and fermionic suppression only when
+you have spontaneous events.
+If you drive it in a unitary time evolution,
+you will not be able to see quantum statistical suppression
+or enhancement.
+And the same thing as we have seen here.
+When you have a stimulated system,
+everything is sort of undergoing a unitary time evolution,
+and the unitary time evolution for N atoms
+is the same as for a single atom.
+You need the element of spontaneous emission.
+So it may be not-- I'm not proving it to you.
+But I'm just making it as a remark.
+But we have seen here that the superradiance only
+shows up in spontaneous emission and not when
+we drive the system.
+A driven system is a unitary evolution,
+and the same conclusion which we just got for superradiance
+also applies if you want to observe fermionic suppression
+or bosonic enhancement in quantum gasses.
+It needs an element of spontaneous scattering
+or spontaneous emission.
+
+If we can look at it in terms of interference of photons,
+how does that tie in here?
+Because if the stimulated emitted photons are still
+interfering, then you could get addition
+or destructive interference, constructive interference
+of those photons, right?
+The quick answer is you have a classical field which
+you use for-- you have a laser field for stimulating emission
+or for absorption.
+There are so many photons in the laser field
+that the few photons which your system emits do not matter.
+We're really talking to a classical field,
+and it doesn't matter whether the other N minus 1 atoms
+have emitted a photon, because you have zillions of photons
+in your laser field and they determine
+the dynamics of the system.

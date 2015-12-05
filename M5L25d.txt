@@ -1,0 +1,38 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 28 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So the question is, have those effects been observed?
+Yes, they have actually, and they're
+important for a lot of research.
+But just for two atoms, the simplest observation
+is when you take two atoms, let's say two sodium atoms,
+bring them very close, and you form a sodium 2 molecule.
+And to some extent, when the molecule are binding,
+it's not-- for states where the molecule are binding,
+it's not completely changing the electronic structure.
+We can regard the sodium 2 molecule
+as consisting of 2 sodium atoms.
+And indeed, if you do spectroscopy of the sodium 2
+molecule, you find some molecular state
+which are very long lived, like the subradiance states which
+do not radiate at all.
+But then you find states which have a spontaneous emission
+rate, which is about two times faster
+than the atomic spontaneous emission rate.
+So you find sort of that you can understand
+some radiative properties of molecules
+by assuming that they are related to the sub
+and superradiance state of the two atoms
+which formed this molecule.
+So an example here is our-- is sodium
+2 molecule has states with [INAUDIBLE] gamma molecule
+is approximately 2 times gamma sodium,
+or other states where it's very small.

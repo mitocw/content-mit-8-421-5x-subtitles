@@ -1,0 +1,52 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 42 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So here we have now a situation where the photon field
+has a random phase, because we did not-- we lost the phase
+information of the laser beam when we put
+the atom into an excited state.
+And you may now ask, what is the origin of this phase
+uncertainty?
+And at least the qualitative answer
+is it's vacuum fluctuations.
+
+You can take the concept of vacuum fluctuations
+a little bit further-- and just mentioning it
+but I will not work it out-- but the fact
+that the phase of these photons, which is random,
+is somewhat associated with vacuum fluctuations,
+you can address this question when you talk about two atoms.
+So we have two atoms.
+We excite them both with our [? pipals ?] into an excited
+state, and then as time goes by, we
+will have atoms which create photons.
+And at least as long as the atoms
+are well localized within an optical wave lengths,
+you could play with the idea that if they're
+vacuum fluctuations, maybe the two atoms will see
+the same vacuum fluctuations.
+
+And therefore, indeed you will actually observe correlations
+in the relative phase.
+So if you measure the phase of the light emitted spontaneously
+by the two atoms, you will find a correlation
+which is caused-- which is due to the fact
+that-- I'm waving my hands here--
+but that the spontaneous emission was triggered
+by the same random vacuum fluctuations.
+So from the absolute phase will be completely random from time
+to time, but the relative phase will be correlated.
+So but what we're talking about here
+is correlations between two atoms.
+We want-- we will talk later about superradiance,
+and maybe this will make it much more
+clearer what it means if several atoms emit spontaneously
+together.
