@@ -42,7 +42,7 @@ and we just cannot retrieve the phase of the laser beam
 by looking at the photons.
 So this is what I mean here.
 Also the photons can come out of a unitary time evolution.
-My question now is, is the randomness
+My question now i about the randomness
 or this loss of phase of spontaneously emitted photons.
 
 And now I want to know your best guess.
@@ -52,17 +52,17 @@ What is it due to?
 Is it only due to the measurement process
 of the photon?
 
-Or is it due to performing sort of a partial trace
-over reaching over certain states?
+Or is it due to performing sort of a partial trace,
+averaging over certain states?
 
 So if you're interested in the photon,
 maybe tracing out the states of the atom
-or over reaching over modes of the electromagnetic field.
-And question C is Bose is actually possible?
+or averaging over modes of the electromagnetic field.
+And question C is:  both is actually possible?
 
 So if you look at spontaneously emitted photons
 and they're not perfectly phase coherent, they're not
 reproducing the phase of the laser who has created them,
 what is the reason for that?
 Is it always the fundamental reason or is there
-no fundamental reason, it's only a kind
+no fundamental reason, it's only a kind of reason of ignoring information, taking a partial trace?
