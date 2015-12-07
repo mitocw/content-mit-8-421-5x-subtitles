@@ -9,8 +9,8 @@
 #
 #----------------------------------------
 
-The question I have is can you obtain with such a measurement
-the spectral resolution which is narrower
+The question I have is: can you obtain with such a measurement
+a spectral resolution which is narrower
 then the natural alignments?
 And well, we can give two possible answers.
 And one is yes, because you're looking
@@ -19,8 +19,8 @@ These atoms are longer lived, or we've just
 elected atoms which happened to survive for several lifetimes.
 
 But then there should be sort of some lingering doubts,
-if you have a sample which undergoes radioactive decay.
-And you would you know, go to your favorite supplier
+if you have a sample which undergoes radioactive decay,
+and you would go to your favorite supplier
 and buy uranium which has already
 decayed for a billion years.
 It's the same uranium which existed a billion years ago,
@@ -34,5 +34,5 @@ is self-similar.
 It starts at any moment, and it looks exponential
 no matter where you start.
 
-With which [? on ?] [? some ?] [? insight, ?] is it possible
+With which answer would you side: is it possible
 or it's not possible?
