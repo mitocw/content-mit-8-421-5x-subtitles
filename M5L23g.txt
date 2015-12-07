@@ -1,0 +1,104 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 94 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's not drop all the assumptions we've made.
+So what happens when we change from
+blue-detuned into red-detuned?
+Well, for blue-detuning, we use the argument that adiabatically
+we stay in the ground state, but for red-detuning it's
+a higher state, and we adiabatically
+stay in the higher state.
+Same thing.
+What happens if f and g are not degenerate?
+
+Well, the argument is the following.
+It's the same result. And I can quickly
+show that to you by saying use the dressed state basis.
+You have the state g with Na and Nb photons in laser
+beams-- they're going to be consistent.
+I called the operators Na and Nc.
+And if you are now look at the state
+f, which has one photon less here and one photon more here,
+those two states are degenerate.
+So I was just showing the situation
+if g and f are not degenerate, here we
+have a laser beam with Na photons,
+here we have a laser beam with Nc photons.
+If we include the photons in our description,
+we have a degeneracy.
+And that's what matters.
+But what is relevant, of course, is
+you have this degeneracy only when the energy
+difference between g and f is the energy frequency difference
+between the two laser beams.
+So it is essential-- and you see that
+again here-- that the two-photon Raman resonance
+condition has to be met.
+OK.
+So we've dropped all the assumptions,
+so we know you can-- in a general system,
+you can transfer between two hyperfine states.
+You can use red or blue-detuned laser.
+Everything is robust.
+OK.
+So STIRAP goes by the name dark state transfer.
+And what I want to address now is what
+is the magic which is going on?
+How can we transfer from state g to state f
+without going to the excited state?
+And the answer is-- I gave it already
+to you-- it's not possible, because the only couplings we
+have are the two couplings which I have shown.
+
+But-- and this is sort of the gist you should carry away--
+since the whole transfer is a coherent process--
+and I will be more exact in a moment,
+we're not building up a population
+in the excited state, we're just building up a small amplitude.
+And the population is a small amplitude squared.
+It's, so to speak, epsilon squared.
+And so you win one power of epsilon,
+one power of the small amplitude,
+if you do a coherent transfer as compared
+to incoherent transfer, which relies
+on shuffling over population.
+And I want to sort of show you now how this pans out.
+Jenny.
+But in a limit of, you know, infinitely
+adiabatic, infinitely slow, you still
+would have the transfer happen without ever going
+to the excited state, right?
+Well I will show you that the integrated population
+in the excited state goes as 1 over the transfer time.
+So if you allow an infinite amount for the transfer,
+you can make the population [INAUDIBLE] slow.
+But ultimately, what I also want to show
+you is that how much you put into the excited state
+depends-- and I think this is a very satisfying result for me--
+depends on your resources.
+It depends on your laser power.
+If you have infinite laser power,
+you can keep the population infinitesimally small,
+and if you have infinite time.
+But if you go to the lab and do an experiment and say,
+I want to be done in 24 hours, well,
+this defines your time budget.
+And the strongest laser you have in the laboratory
+defines your laser power budget.
+And given those two resources, there is a small amount,
+and I want to give you an estimate for that.
+And then we have to discuss, is that small amount
+which we get in STIRAP, does that really
+stand out over other methods to transfer population.
+And the answer will be interesting.
+OK.
+So let me just say, no excited state
+is needed as a stepping stone.

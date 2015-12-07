@@ -1,0 +1,46 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 36 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Questions about lasing without inversion?
+Nancy?
+Is lasing without inversion important in lab?
+Like, as opposed to lasing with inversion?
+Or is it more about teaching us an important thing?
+Well, lasing without inversion has definitely
+been touted as a way to get lasing deeper in the UV,
+to get lasing for very blue transitions,
+because when you want to create inversion,
+this actually has been the problem in creating
+x-ray lasers in atomic systems.
+If you have larger and larger energy separation,
+spontaneous emission scales with omega cube,
+and so therefore it becomes harder and harder
+to fulfill the order gain equation.
+So in those cases, even these last two methods
+will probably [INAUDIBLE]?
+Because they're [INAUDIBLE].
+
+Well, lasing without inversion alleviates a requirement
+to build a laser, and so people have discussed that where
+it's really hard to create a laser in the conventional way,
+deep, deep in the blue, the UV, or in the x-ray regime,
+that lasing without inversion may help.
+I'm not aware that any practical development
+has emerged from that, because there is a price to be paid,
+and that is usually in the form of coherence.
+You need a certain degree of coherence
+in your system to be able to do that,
+but it's an idea which is powerful, but as far as I know,
+there was no killer application of it.
+
+The importance of dark states is definitely
+in slow light, manipulation, quantum computation,
+and concepts of storing light, and this

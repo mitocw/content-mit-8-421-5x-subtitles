@@ -1,0 +1,83 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 73 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+For pedagogical reasons, I will drop
+all the assumptions I'm making now, but let me make them.
+So let's discuss degenerate states first.
+
+So g and f are degenerate.
+And let me also discuss blue-detuned light.
+And you will see in a moment why.
+And let's set up this equation.
+We have the stage g, f, and e.
+We have a green laser beam and an orange laser beam.
+And we know already from what we have just
+learned that this should be transformed into--
+and let me just be more specific here.
+I said I want to use blue-detuned light.
+So now we do what we just learned.
+We're expressing as the dark state and the bright state,
+and here we have the excited state.
+And the beauty of degeneracy is the dark state
+and bright state are superposition states,
+but since it's superposition states
+of two states with the same energy,
+I can draw them without twisting my hand
+or doing sort of a double line.
+Anyway, but now what happens is the following.
+The bright state is coupled to the excited
+state by the two laser fields.
+And the question is, what is the energy of the bright state
+relative to the dark state.
+Well, if I have a blue-detuned laser beam,
+I get an AC Stark shift, which increases the energy.
+So therefore, the state which sees the light which
+scatters photons, scattering photon
+beams, there is an excited state mixture.
+An excited state mixture means there's an AC Stark effect,
+and the AC Stark effect is positive.
+So therefore, the dark state is the uncoupled state,
+is the lowest state in the ground state manifold.
+And even if you would not generalize it
+to multiple levels and all that, if there is one dark state,
+it's not upshifted by the AC Stark effect,
+whereas every state which sees the light
+is upshifted by the AC Stark effect, which
+provides a blue shift.
+So the dark state is the lowest quantum state.
+So therefore, we can now use the general concept
+in quantum mechanics of adiabatic state transfer
+to achieve a perfect 100% transfer from one ground
+state to the other one by tailoring as a function of time
+our laser fuse as follows.
+We start out in a situation where
+the only beam which is on this-- I
+want to change that to orange.
+Yeah, it's the orange laser.
+And when the orange laser is on, and then the dark state is g.
+Then we then down the orange laser,
+but we ramp up the green laser.
+And we have the situation that initially g
+and eventually f is the dark state.
+So this is the picture behind the rapid adiabatic passage
+from state g to f.
+I want to point out that the application of the two laser
+pulse, first orange and then green,
+is called the counter-intuitive sequence.
+Because if you asked yourself the problem,
+you started out in state g, and you want to go over to state f.
+Which laser would you first switch on if you're in state g?
+Well, if you want to get out of state g,
+you would say first the green laser
+to go up and then the orange laser to go down.
+So what I just said, first the green and then the orange,
+is called the intuitive sequence.
+But STIRAP works with a counter-intuitive sequence.

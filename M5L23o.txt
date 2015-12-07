@@ -1,0 +1,55 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23o.txt
+#
+# Captions for 8.421x module
+#
+# This file has 45 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Now we have to make the connection that the statement
+that we need inversion for lasing was related
+to absorption, but now we've cancelled absorption.
+So now what we want to do is we want
+to create a situation where we have lasing.
+We want to put population into the excited state,
+but the population in this excited state
+will be much, much smaller than the population in the ground
+state, so you're not even close to inversion.
+So let me draw the diagram.
+We have lots and lots and lots and lots of population
+in the ground state.
+We have zero population in e1, and in e2
+we just have a little bit.
+And now you would say, well, you don't have inversion,
+how can you get lasing?
+But if you have now a cavity at frequency omega 0,
+then you can say the Lorentzian profile of the excited state e2
+overlaps with omega 0, so at least you
+have some possibility for the excited state e2
+to decay into the cavity mode.
+And therefore, a very weak field in the cavity mode
+will be amplified by stimulated emission
+without suffering any absorption,
+so therefore, it will be amplified and we have gain.
+
+So if you have a cavity at omega 0,
+we have gain because we have some stimulated emission
+at omega 0, but no absorption.
+Of course, if you would tune your cavity
+to be in a resonance with e2, you
+would have more stimulated emission.
+But you would have much more absorption,
+and you would not be able to get a net gain
+for a small [? probe ?] field, so you would not have a lasing.
+So you can say that what we have achieved here in a three level
+system, we have accomplished destructive interference
+for absorption.
+But the way how we've population just in e2,
+we have not any destructive interference
+for the stimulated gain.
+So we have tweaked on the lasing equation, the laser equation,
+the absorption part, but not the stimulated emission
+part by interference in a three level system.

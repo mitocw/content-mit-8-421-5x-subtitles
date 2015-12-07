@@ -1,0 +1,72 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 62 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So now we want to perform a treatment for N particles.
+We have now the individual pseudo spins 1/2.
+We perform now with sum over all in particles.
+We get the total spin S.
+The total spin S random number has
+to be smaller or equal than N/2 because we
+have N spin 1/2 systems.
+The incremental number is 1/2 times
+the difference of the atoms which
+are in the excited state minus the atoms which
+are in the ground state.
+And this is, of course, trivially must be smaller
+than S. Because M is this z comportment of S.
+And we are now describing the system by the eigenstates S
+and M of the collective spin.
+That means we have the following situation.
+We have a manifold.
+We want to show now all the energy levels.
+We have a manifold, which has a maximum spin N/2.
+The next manifold has N/2 minus 1.
+And the last one has let's assume
+we have an odd number of particles, S equals 1/2.
+So here we have now N energy levels.
+We can go from all the N atoms excited to all the N
+atoms being de-excited.
+In the following manifold, we have S is 1 less
+and therefore we have a ladder of states,
+which is a little bit shorter.
+And eventually for S equals 1/2, we
+have only 2 components plus 1/2 and minus 1/2.
+So those levels interact with the electromagnetic field.
+The operator of the electromagnetic field,
+we have already derived that, involves
+the sum of all of the little sigma pluses, sigma I pluses.
+And we call the sum of all of them S plus and S minus.
+And the matrix element is now for a spontaneous emission.
+You have a state with SM.
+S minus is the lowering operator for the N particle system.
+So it goes from a state with a certain number
+of atomic excitations to one excitation less.
+And that means this is the act of emitting spontaneously
+1 photon.
+The operator S minus stays within the S manifold.
+So we stay in the same letter, which
+is characterized by the [? incremental ?] number S.
+But we lower the incremental number by 1.
+The incremental number is the measure
+of the number of excitations.
+And we know from general spin algebra
+that this matrix element is S minus M plus 1 times S plus M.
+And since I want to-- there are, of course, pre-factors
+like the dipole matrix element of a similar atom.
+But I always want to normalize things to a single atom.
+And by just using the square root,
+if you have a similar particle, which is in the S equals M
+equals 1/2 state, then you see that this square root
+is just 1.
+So, therefore, for when I discuss
+now the relative strengths off the transitions
+between those eigenstates, I've always
+normalized to single particle.

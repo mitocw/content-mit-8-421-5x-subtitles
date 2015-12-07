@@ -1,0 +1,38 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L22m_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 28 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The question I have is can you obtain with such a measurement
+the spectral resolution which is narrower
+then the natural alignments?
+And well, we can give two possible answers.
+And one is yes, because you're looking
+at atoms which have survived for a long time so to speak.
+These atoms are longer lived, or we've just
+elected atoms which happened to survive for several lifetimes.
+
+But then there should be sort of some lingering doubts,
+if you have a sample which undergoes radioactive decay.
+And you would you know, go to your favorite supplier
+and buy uranium which has already
+decayed for a billion years.
+It's the same uranium which existed a billion years ago,
+and you will not be able to perform
+any measurement on your well aged uranium
+which has a higher resolution then if you had lived
+a billion years ago and had done your measurement with younger
+uranium.
+So in other words, the exponential decay
+is self-similar.
+It starts at any moment, and it looks exponential
+no matter where you start.
+
+With which [? on ?] [? some ?] [? insight, ?] is it possible
+or it's not possible?

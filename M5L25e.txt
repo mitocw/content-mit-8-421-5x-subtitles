@@ -1,0 +1,127 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L25e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 117 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+Now we understand the basic of superradiance in two atoms,
+and therefore we can now generalize it to N particles.
+But before I use the spin algebra to describe
+N particles, I want to glean some intuition, where we just
+consider-- and this takes us back
+to the beginning of the course-- where we consider
+N spins in the magnetic field.
+So, and I really invite you to think now completely
+classically.
+
+We'll describe the quantum mechanic in a moment,
+but I've often said in this course, if in doubt,
+if you have a classical description and a quantum
+mechanical, and they seem to contradict,
+usually there is more truth in the classical description.
+It's so much easier to fool yourself
+with the formalism of quantum mechanics.
+So, let's take N spins in a magnetic field,
+and ask what happens.
+So we have N spins.
+So these are now real spins, they [? are real ?]
+magnetic moment.
+These are tiny little bar magnets.
+And we do a pi over two pulse.
+And after we've done a pi over two pulse,
+the spins are aligned like this.
+Let's assume we had our magnetic field.
+And now what happens is, these spins will precess
+at the Larmor frequency.
+So now you have your N spins.
+They precess together.
+And if you have a magnetic moment which oscillates,
+the classical equation of electromagnetism
+tell you that you have now a system which radiates.
+But compared to a single atom, the dipole moment
+is now, N times, the single-atom dipole moment.
+
+So therefore, what do we expect for the radiated power?
+
+Well, if the electromagnetic radiation
+by an oscillating electric, or an oscillating magnetic,
+dipole moment scales with a dipole moment squared.
+So therefore, we would expect that the power radiated
+is proportional to N square.
+And that means, I have to take the perfect of N now apart.
+This means, this is N times higher
+than if you assume you have N individual particles.
+
+And each of them emits electromagnetic radiation.
+So what I'm telling you is, if you
+scatter N spins through your laboratory, you excite them,
+pi over 2 pulse.
+They radiate.
+They radiate a power which is proportional to N.
+But if you put them all together, localize them better
+than the wavelengths, their radiated power
+is proportional to N square.
+Which is an N enhancement.
+So the way how I put it for N spins-- and this
+is a situation of nuclear magnetic resonance--
+this is the completely natural picture.
+But if I would have asked you the question,
+let's take N atoms which are excited
+and put them close together, you'll
+say, oh well, each atom does spontaneous emission.
+And If you have N atoms, we get N times the intensity.
+You would have gotten a different result.
+So we are so accustomed to look at spins in NMR
+as a coherent system.
+Look that all the spins add up to one giant antenna,
+to one giant oscillating dipole moment.
+Whereas for atoms, we are so much
+used to say each atom is its own particle does its own thing.
+So for N excited atoms, they are usually
+regarded as independent.
+However-- and this is the message of today--
+that there shouldn't be a difference.
+All two-level systems are equivalent.
+
+Side remark-- for NMR N spins, it is much, much easier
+to observe the effect because the condition
+that all the spins are localized within one wavelength
+is always fulfilled if the wavelengths is
+meter or kilometers.
+But if you have atoms which radiate
+at the optical wavelengths, this condition becomes non-trivial.
+That is partially responsible for the misconception
+that you treat the two-level system, which
+is a spin, in your head differently
+from the two-level system which is an atom.
+So the important difference here is lambda.
+And we have to compare it with the sample size.
+And usually the sample size is much larger
+in the optical domain and is much, much smaller
+in the NMR domain.
+However, and that's what we will see
+during the remainder of this class,
+some of the traumatic consequences of superradiance
+will even survive, under suitable conditions,
+in extended samples.
+So when we have samples of excited atoms much,
+much larger than the optical wavelengths,
+we can still observe superradiance.
+So therefore, for pedagogical reasons,
+I first completely focus on the case
+that everything is tightly localized.
+We derive some interesting equations.
+And then we see how they are modified
+when we go to extended samples.
+But I want to say, the intuition from spin systems,
+the intuition from classical precession
+and nuclear-magnetic resonance will help us
+what happens for electronically excited atoms.
+So we want to use this other spin 1/2
+system as a powerful analogy to guide us.

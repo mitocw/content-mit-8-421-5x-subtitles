@@ -1,0 +1,127 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23j.txt
+#
+# Captions for 8.421x module
+#
+# This file has 117 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK, so we have this result, which at least demystifies
+what many people say.
+Actually, I've heard truly experienced researchers
+in the field to say we can do the transfer without ever
+populating the excited state.
+So the truth is what I just derived for you.
+But now we want to compare it to what
+would happen if you use an incoherent picture.
+If you use an incoherent picture,
+let's assume we would use a pi pulse,
+put all the population in the excited state.
+And then we would stimulate it down.
+So we have a pi pulse.
+So we build our population.
+And then we use a second pi pulse.
+Well, we would then have about unity population in the excited
+state.
+It would emit light at a rate gamma.
+And it would take the time of the inverse Rabi
+frequency, the Rabi period, to stimulate it down.
+Now you can say, what happens if, maybe
+that's dumb to have a pi pulse and put all the population in.
+Take a pi over 20 pulse, put a little bit population
+in, stimulate it down, the next batch, the next batch,
+the next batch.
+But you get exactly the same result.
+Because each population which you have put into the excited
+state had to wait for a Rabi period to be stimulated down.
+So therefore, in the incoherent picture,
+if you sort of transfer batches of population,
+you realize that the probability for spontaneous emission,
+or for populating a false state, is independent of the transfer
+time.
+Because it cancels out if you do small pieces of population.
+You have a smaller rate of emission.
+But you integrate for longer.
+And the two temporal factors cancels out.
+And now you realize that the coherent transfer
+is more favorable by another power of omega Rabi times T
+transfer in the denominator.
+So that's why people prefer STIRAP.
+Questions about that?
+
+OK, can you suggest another method?
+How we could transfer population from one state to the next?
+I gave you two examples.
+One was this magic, or not so magic, dark state transfer.
+The other one is a method where we put populations, stimulate
+it down, next batch of population, stimulate it down.
+What is another process which we can do to transfer population?
+
+Pardon?
+Landau-Zener--
+Landau-Zener-- actually, the STIRAP is a Landau-Zener.
+The dark state is always the lower state.
+There is a crossing, sort of, in between.
+But it's an avoided crossing.
+Actually, in a way, you may want to think about it.
+The STIRAP is actually a Landau-Zener transfer
+between where the lower state is the dark state.
+The upper state is the bright state.
+I still have a question.
+So, Landau-Zener sweeps are great because you cannot know
+exactly where your resonance is.
+And you can robustly sweep populations
+so long as you're close.
+But this STIRAP scheme is sensitive
+to the run-on incidence.
+Absolutely it is.
+How robust is it against small violations?
+Qualitatively speaking.
+
+Well, I gave you already the hint
+when I discussed that if you are detuned from the Raman
+resonance, this detuning, at the detuning frequency,
+would beat note between dark and bright state.
+So this picture, what is dark and what is bright,
+is scrambled up by that.
+So in other words, as long as your inverse detuning
+is smaller than the transfer time, you're OK.
+Because the dark state is the dark state.
+But if during the transfer time, you turn the dark state
+into bright state, you've completely
+messed up the scheme.
+
+So in other words, I know people in this hallway, in my group,
+want to do STIRAP transfer between molecules.
+And we have to stabilize our lasers.
+So we have, automatically, little bit laser fluctuations.
+But if you do the transfer in a millisecond,
+it is sufficient to have the laser frequency under control
+at the kilohertz level.
+So that's a requirement.
+But back to my question.
+We have discussed sort of an incoherent transfer.
+And we've discussed STIRAP.
+Can you suggest another method how
+you can go from one ground state to the next?
+
+Can we talk about optical pumping?
+Optical pumping-- yes.
+But optical pumping means we really
+go with spontaneous emission.
+And then we have 100% spontaneous emission.
+So we want a process where we go from one momentum state
+to another momentum state.
+But well-- what?
+[INAUDIBLE]
+Yes, optical pumping is a two-photon process.
+Actually everything is a two-photon process here.
+But optical pumping is actually a process
+is where we have a Raman two-photon transition.
+The first leg is stimulated.
+The second one is spontaneous.
+But I would suggest now, what [INAUDIBLE] said.
+Let's have a two-photon Raman transition.

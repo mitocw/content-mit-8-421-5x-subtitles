@@ -1,0 +1,93 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L23c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 83 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+So we've talked about the dark state as a superposition
+of state g and f.
+But if you have a two-dimensional Hilbert
+space given by two ground states, g and f,
+we can now find a new basis.
+We have defined the dark state, but now we
+can get the orthogonal state, which is the bright state.
+It has a plus sign here, and it has the omega 1 and omega 2,
+the Rabi frequencies reversed.
+So this state is now orthogonal.
+
+And you can now visualize the preparation of the dark state
+as follows.
+We have the dark state.
+We have the bright state.
+The bright state, as you can immediately verify,
+is strongly coupled by the laser field to the excited state.
+So we have an excited state.
+The laser fields-- well, it's two laser fields--
+strongly couple the bright state to the excited state.
+And then spontaneous emission-- two photon lights scattering--
+can take you back to either of the two states.
+But now you see that the concept of optical pumping,
+which I started out with a trivial example,
+is now applying in the new basis to the bright
+and to the dark state.
+And what happens is you would by optical pumping
+populate the dark state and completely pump out
+the bright state.
+
+Just as a side remark, there are lots of subtleties.
+Most of them you will probably see by yourself
+by just inspecting the results.
+But if you may ask yourself what happens when the Raman
+resonance is not met, when the difference between the two
+lasers is not exactly the difference between the two,
+well then what you have is you have a superposition
+of ground and excited state.
+And so you have ground state and g-- the two ground
+states g and f.
+But the two laser fields have a phase
+which evolves different from the phase between g and f.
+And suddenly, what you have is relative-- I mean,
+everything is relative to the laser field-- so to speak,
+this plus sign turns into a minus sign.
+So therefore, if you have pumped into the dark state
+but now the the frequency difference of the two lasers
+is slightly different from the frequency difference between g
+and f, this means in essence that, as time goes by,
+with a frequency-- with the detuning away
+from the two-photon resonance, the dark state will now
+precess into the bright state.
+And it is only for the Raman resonance,
+when it is exactly met, that you have a long-lived dark state,
+a dark state which is the true eigenstate of this Hamiltonian.
+Yes?
+Would the precession also change on [INAUDIBLE] 2?
+
+No, we have defined omega 1 and omega 2
+as the Rabi frequencies of the two lasers.
+Omega 1 is the Rabi frequency of the laser which talks to I
+think the state g, and omega 2 is
+the Rabi frequency of the laser that talks to the state f.
+So this doesn't change.
+It's just-- I'm just sort of telling you
+how you may be able to think about it,
+that if you put in all the temporal phase
+factors on resonance, at least in some [INAUDIBLE] picture,
+all the phase factors are zero, because the e to the i omega
+t of the atomic wave function is compensated by the light atom
+coupling.
+And therefore, phase factors just disappear
+and this state is stationary.
+But if you write down what happens as a function of time
+to this state and you couple it as a function of time
+to the laser field, you will find out
+that there is an evolving relative phase
+between the light field and the atomic state.
+And the essence of that is that with this, there
+will be a beat node at which the dark state becomes bright
+and the bright state becomes dark.

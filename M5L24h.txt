@@ -1,0 +1,62 @@
+#
+# File:   content-mit-8-421-5x-subtitles/M5L24h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 52 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So what you're going to discuss now
+are the theme is Fano profiles.
+And they want to discuss two-photon absorption features.
+
+So we have discussed the case where
+the one-photon detuning, we want to go now
+to a large one-photon detuning delta 2.
+And the new feature now is that this really
+separate the window of electromagnetic
+induced transparency from the port absorption features.
+
+So let me just draw a diagram of the states.
+As usual, we have our two states in the lambda transitions, g
+and f.
+We have this continuum of the excited state.
+But now-- and this is what often is
+done in the experiment-- you're not
+using raman lasers, which are in resonance with the excited
+state.
+You're using raman lasers.
+Here is the strong coupling lasers, which are far detuned.
+So here we have detuning, which for laser 2 called gamma 2.
+The raman frequency's omega 2.
+Here we have-- this is the weak pole [? laser ?] omega 1.
+And the detuning value, let's call it gamma 1.
+So in order to keep the situation simple,
+we use a weak pole [? laser. ?] Omega 1 is small.
+And our raman detuning delta is the difference
+between the two similar photons detuning, capital delta 2 tool
+minus capital delta 1.
+For these situations, there are nice analytic expressions.
+And together with the class notes,
+I will post a wonderfully clear paper
+by Lounis and Cohen-Tannoudji, where the two authors discuss
+this situation.
+
+But let's just sort of figure out what are
+the features in this system.
+Let's just kind of go through different situations.
+One is if the raman detuning is 0,
+we should always get the phenomenon
+of electromagnetically-induced transparency.
+If you don't have any coupling, then we simply
+have a two-level system.
+And if we tune omega 1 into resonance,
+we get simple single photon absorption.
+
+So if we look at the system of the three levels
+and we are asking what are now the relevant processes,
+one limit is of course the trivial limit
+that we have single photon absorption.
