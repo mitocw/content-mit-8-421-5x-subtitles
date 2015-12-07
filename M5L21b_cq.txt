@@ -28,4 +28,4 @@ And option B is, spontaneous emission introduces-- well,
 maybe it's through a master equation,
 through optical Bloch equation-- introduces a random phase
 into the time evolution of the quantum mechanical system.
-So what is the picture you have on spontaneous emission?
+So what is the picture you have of spontaneous emission?
