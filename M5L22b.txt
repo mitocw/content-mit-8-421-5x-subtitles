@@ -60,6 +60,6 @@ has been perfectly mapped onto the photon field.
 So all of the information which was
 in the atom before spontaneous emission
 is now available in the photon field.
-So the next thing to address is the [INAUDIBLE].
+So the next thing to address is the phase phi.
 What is the phase of this spontaneously emitted
 photon and this is what you want to understand now.
