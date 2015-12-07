@@ -25,9 +25,9 @@ Exclamation mark.
 But there are certain aspects associated
 with spontaneous emission and I want to address them.
 But on the other hand, if you think
-about spontaneous emission the most fundamentally way,
-the first thing you should think about it
-that you have oscillation.
+about spontaneous emission in the most fundamental way,
+the first thing you should think about are
+vacuum Rabi oscillations.
 Here you see in the simplest possible system
 what spontaneous emission can do for you.
 
