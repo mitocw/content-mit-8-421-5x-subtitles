@@ -117,7 +117,7 @@ which are proportional to N. However,
 if you want to-- I mean, I've sort of described it just
 as a two level system.
 Each atom does Rabi oscillation.
-Then I've said, OK, the N-- the system of N atoms
+Then I've said, OK, the system of N atoms
 is just N individual systems.
 But if you insist to describe it as a collective spin,
 then we have the Dicke states, then
@@ -189,9 +189,9 @@ everything is sort of undergoing a unitary time evolution,
 and the unitary time evolution for N atoms
 is the same as for a single atom.
 You need the element of spontaneous emission.
-So it may be not-- I'm not proving it to you.
+So it --- I'm not proving it to you.
 But I'm just making it as a remark.
-But we have seen here that the superradiance only
+We have seen here that the superradiance only
 shows up in spontaneous emission and not when
 we drive the system.
 A driven system is a unitary evolution,
@@ -201,7 +201,7 @@ or bosonic enhancement in quantum gasses.
 It needs an element of spontaneous scattering
 or spontaneous emission.
 
-If we can look at it in terms of interference of photons,
+[Question] If we can look at it in terms of interference of photons,
 how does that tie in here?
 Because if the stimulated emitted photons are still
 interfering, then you could get addition
