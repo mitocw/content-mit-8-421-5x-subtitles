@@ -15,7 +15,7 @@ So we don't have an excited state
 whereby we put a lot of excitations
 on, because the excited state would be very short-lived.
 So what we instead do is we have Rabi frequency omega 1.
-We have a large detune in delta.
+We have a large detuning delta.
 And then the spontaneous emission
 with the coupling constant, g, takes us down
 to the excited state.
@@ -41,27 +41,27 @@ but now prorated by the amplitude
 that we have mixed the excited state into the virtual state.
 So therefore, we have now obtained a superradiant system.
 And for instance, we did experiments
-which became classic now because their conception is so clear.
+which became classic now because their concept is so clear:
 We took a Bose-Einstein condensate,
 we switched on one strong off-resonant laser beam,
 and then we had a system which was 100% inverted
-because we had no atoms into the final state.
+because we had no atoms in the final state.
 The final state is a Bose-Einstein condensate,
-but with a recall kick.
+but with a recoil kick.
 So by just having a Bose-Einstein condensate
 and shining this laser light on it, we had now in this picture
 a 100% inverted system, which is the ideal realization
-of a fully inverted [INAUDIBLE] state.
+of a fully inverted Dicke state.
 Everything is completely symmetric,
 and then we observed superradiant emission
 of light pulses.
-So this has been the important [INAUDIBLE],
-so important experiments have been
+So this has been the important realization.
+So, important experiments have been
 done with BECs in my group, and with cold atoms
-in laser-cooled samples in [INAUDIBLE].
+in laser-cooled samples in Vladan Vuletic's group.
 
 So why is superradiance so important?
-So, if you have extended sample superradiance,
+If you have extended sample superradiance,
 those samples are no longer coupling
 to the electromagnetic field with the coupling constant, g.
 The coupling constant g is now multiplied
@@ -76,9 +76,9 @@ But this large g which we achieve in a cavity,
 if you put many atoms in it, gets enhanced
 by the optical density.
 So the cavity enhancement and the superradiant enhancement
-is multiplicative.
-And often, it's very favorable for similar photon manipulation
-if you do Bose.
+are multiplicative.
+And often, it's very favorable for single photon manipulation
+if you do both.
 You get enhancement from the cavity,
-and extend-- enhancement due to superradiance.
-And the person who has really pioneered work
+and enhancement due to superradiance.
+And the person who has really pioneered work along these direction is Vladan Vuletic here at MIT.
