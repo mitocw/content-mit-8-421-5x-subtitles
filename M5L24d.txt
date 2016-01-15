@@ -22,8 +22,8 @@ So in an incoherent way, of course, a very powerful laser
 can drill a hole into the wall, and then the next laser
 can go through the wall without absorption.
 But you can be smarter if the very powerful laser,
-through coherence, puts all the atoms in the brick--
-in the beam parts of the laser into a coherent superposition
+through coherence, puts all the atoms in the brick 
+in the beam path  of the laser into a coherent superposition
 state.
 And then they become a dark state.
 Then your laser can go through a brick wall.
